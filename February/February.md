@@ -77,6 +77,9 @@
  - [ ] 第一行  
  - [ ] 第二行
  - [x] 第三行 
+ 如果任务列表项说明以括号开头，则需要使用 `\` 进行转义：
+ `- [ ] \(可选）第一行`
+ - [ ] (可选）第一行
 
 ## 创建表格
 |Option | Description |
@@ -181,7 +184,7 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTEzMzU5Njg1NDEsMTU2MTYzMzA2MiwxMjI3ODA2Nzgs
+J5IjpbLTE2MjY2Nzc1MjQsMTU2MTYzMzA2MiwxMjI3ODA2Nzgs
 LTE5Mjc1NTQ5NTksLTg5NzU4MzU5OSwxODUxODA4MTMwLC0xMj
 kyMjczNzA5LDk3MzA2NDUxLC0xMzQ3MzQ5NDMsMTk4MzEwOTE0
 LDY2NzY5NTQ2NSwxNzA0NzIwMjY1LDE0MjkyMDAwNTEsLTExMD
