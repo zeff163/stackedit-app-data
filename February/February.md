@@ -32,6 +32,11 @@
 * 标签1  
 + 标签2  
 - 标签3  
+
+1. 都
+
+
+
 *** 
 ### 列表多层嵌套  
 + 一级1
@@ -49,9 +54,8 @@
 ## 代办事项列表  
  - [ ] 第一行  
  - [ ] 第二行
- - [ ] 
- - [ ] 
- - [ ] 这里是列表文本
+ - [x] 第三行 
+
 
 ## 问题
 1. 怎么调整空格的距离大小？ $\qquad$
@@ -60,7 +64,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjM0NzQ0MCwtMTE3MjExNjIwMywxNT
+eyJoaXN0b3J5IjpbMTc4NTIwMjAwMSwtMTE3MjExNjIwMywxNT
 YxODc5MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMwLC02NTQ1NDk0
 OTcsMjA5MDI3NjMzNyw0NDA5MDU2MTldfQ==
 -->
