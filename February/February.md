@@ -64,6 +64,8 @@
 	<font color = red>注意1：在github中代码格式(好像)为`<a name="unique-anchor-name"></a>`，把`id`改成`name`。
 	注意2：不要在设定的名字里面加空格，可以用-替代，以免无法识别。
 	注意3：自定义定位点将不会包含在文档大纲/目录中。
+	注意4：自动标题链接的自动命名和编号行为不会考虑自定义定位点。</font>
+
 
 ## 代办事项列表  
  - [ ] 第一行  
@@ -108,6 +110,7 @@ $\boxed{文本}\colorbox{red}{文本}$
 **字号参数应该从1到7，7之后的数都视作7。**  
 
 ## 对齐与换行
+### 对齐
 ```
 ---该行的内容全部都以这种方式对齐
 <p align = "left">		左对齐  
@@ -118,6 +121,7 @@ $\boxed{文本}\colorbox{red}{文本}$
 <p align = "center">	居中对齐  
 <p align = "left">		右对齐  
 
+### 换行
 `<br/>`为强制换行符 ，例如：<br/>换行
 
 
@@ -141,11 +145,10 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTIxNDA3NzQ0NzQsLTE5Mjc1NTQ5NTksLTg5NzU4MzU5
-OSwxODUxODA4MTMwLC0xMjkyMjczNzA5LDk3MzA2NDUxLC0xMz
-Q3MzQ5NDMsMTk4MzEwOTE0LDY2NzY5NTQ2NSwxNzA0NzIwMjY1
-LDE0MjkyMDAwNTEsLTExMDMwNDA0NjEsMTkzMzkxNDUxNCwxNz
-kzNzU3MjU3LDEzMTUxNjg0MTIsMTIxMjI5NDA4LC0xMTcyMTE2
-MjAzLDE1NjE4NzkyNSwxMDc3NzEzMzk5LDEzOTY1NDU2MzBdfQ
-==
+J5IjpbODMxOTIwNzk5LC0xOTI3NTU0OTU5LC04OTc1ODM1OTks
+MTg1MTgwODEzMCwtMTI5MjI3MzcwOSw5NzMwNjQ1MSwtMTM0Nz
+M0OTQzLDE5ODMxMDkxNCw2Njc2OTU0NjUsMTcwNDcyMDI2NSwx
+NDI5MjAwMDUxLC0xMTAzMDQwNDYxLDE5MzM5MTQ1MTQsMTc5Mz
+c1NzI1NywxMzE1MTY4NDEyLDEyMTIyOTQwOCwtMTE3MjExNjIw
+MywxNTYxODc5MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMwXX0=
 -->
