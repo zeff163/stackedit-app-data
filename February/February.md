@@ -57,15 +57,13 @@
 	注意2：括号是英文括号，不要写成中文括号
 	注意3：相对链接更便于用户克隆仓库。 绝对链接可能无法用于仓库的克隆，**建议使用相对链接引用仓库中的其他文件**。</font>
 * 自定义位点：可使用标准 HTML 定位点标记 (`<a id="unique-anchor-name"></a>`) 为文档中的任何位置创建导航定位点。 为了避免不明确的引用，请对定位点标记使用唯一的命名方案，例如向 id 属性值添加前缀。[跳转到开始](#01-1)
-		<p align=center>
 	```
 	Some text <a id="name"></a>
 	[A link](#name)
 	```
-		</p>
 	<font color = red>注意1：在github中代码格式(好像)为`<a name="unique-anchor-name"></a>`，把`id`改成`name`。
 	注意2：不要在设定的名字里面加空格，可以用-替代，以免无法识别。
-	注意3：
+	注意3：自定义定位点将不会包含在文档大纲/目录中。
 
 ## 代办事项列表  
  - [ ] 第一行  
@@ -126,6 +124,7 @@ $\boxed{文本}\colorbox{red}{文本}$
 ## 问题
 1. 怎么调整空格的距离大小？  $\qquad$ 
 2. latex数学环境``\)
+3. 代码环境中内容怎么居中？
  
 
  
@@ -142,10 +141,11 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTE3NTQyNDYzMywtMTkyNzU1NDk1OSwtODk3NTgzNTk5
-LDE4NTE4MDgxMzAsLTEyOTIyNzM3MDksOTczMDY0NTEsLTEzND
-czNDk0MywxOTgzMTA5MTQsNjY3Njk1NDY1LDE3MDQ3MjAyNjUs
-MTQyOTIwMDA1MSwtMTEwMzA0MDQ2MSwxOTMzOTE0NTE0LDE3OT
-M3NTcyNTcsMTMxNTE2ODQxMiwxMjEyMjk0MDgsLTExNzIxMTYy
-MDMsMTU2MTg3OTI1LDEwNzc3MTMzOTksMTM5NjU0NTYzMF19
+J5IjpbLTIxNDA3NzQ0NzQsLTE5Mjc1NTQ5NTksLTg5NzU4MzU5
+OSwxODUxODA4MTMwLC0xMjkyMjczNzA5LDk3MzA2NDUxLC0xMz
+Q3MzQ5NDMsMTk4MzEwOTE0LDY2NzY5NTQ2NSwxNzA0NzIwMjY1
+LDE0MjkyMDAwNTEsLTExMDMwNDA0NjEsMTkzMzkxNDUxNCwxNz
+kzNzU3MjU3LDEzMTUxNjg0MTIsMTIxMjI5NDA4LC0xMTcyMTE2
+MjAzLDE1NjE4NzkyNSwxMDc3NzEzMzk5LDEzOTY1NDU2MzBdfQ
+==
 -->
