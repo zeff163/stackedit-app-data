@@ -82,10 +82,12 @@
 ### 盒子 
 $\boxed{文本}\colorbox{red}{文本}$
 $$
-\begin{tabular}[c]
+\begin{tabular}{c]
 ghj 
 \end{tabular}
 $$
+
+
 
 ## 问题
 1. 怎么调整空格的距离大小？ $\qquad$
@@ -94,8 +96,8 @@ $$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzkxNDUxNCwxNzkzNzU3MjU3LDEzMT
-UxNjg0MTIsMTIxMjI5NDA4LC0xMTcyMTE2MjAzLDE1NjE4Nzky
-NSwxMDc3NzEzMzk5LDEzOTY1NDU2MzAsLTY1NDU0OTQ5NywyMD
-kwMjc2MzM3LDQ0MDkwNTYxOV19
+eyJoaXN0b3J5IjpbOTM5NTUwMTU4LDE5MzM5MTQ1MTQsMTc5Mz
+c1NzI1NywxMzE1MTY4NDEyLDEyMTIyOTQwOCwtMTE3MjExNjIw
+MywxNTYxODc5MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMwLC02NT
+Q1NDk0OTcsMjA5MDI3NjMzNyw0NDA5MDU2MTldfQ==
 -->
