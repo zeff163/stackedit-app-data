@@ -25,7 +25,7 @@
 >  仍在应用中 
 > >
 > >退回一层引用  
-> 退出ying
+> 退出引用
 
 ## 列表  
 使用 + ，- ，* 生成标签 （要带空格）怎么更改标签的间距？
@@ -65,12 +65,11 @@
 ## 灰色底框  
 ```代码环境：`code` ```  （类似verb）
 ``` 
-
 多行代码环境：```code``` 
 
 ```
 ## 文本强调  
-``` 
+``` markdown 
 <u>文本</u>	或者 <ins>文本</ins>	添加下划线 
 <mark>文本</mark>				文字标黄
 <font color = red>文本</font> 	字体颜色
@@ -117,15 +116,20 @@ $\boxed{文本}\colorbox{red}{文本}$
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJrZ0drUlVmbk4xUGI1WVBkIjp7In
-RleHQiOiLmoIfpopgiLCJzdGFydCI6MTQyLCJlbmQiOjE0NH19
-LCJjb21tZW50cyI6eyJpMVh6UW1OTnR4Y3NEQnVaIjp7ImRpc2
-N1c3Npb25JZCI6ImtnR2tSVWZuTjFQYjVZUGQiLCJzdWIiOiJn
-aDoyMDEwNzk5NDgiLCJ0ZXh0Ijoi5pyA5aSaNuS4qiMiLCJjcm
-VhdGVkIjoxNzQwNzQxOTg4NDE5fX0sImhpc3RvcnkiOlstMTI5
-MjcyMzk3NCwtMTM0NzM0OTQzLDE5ODMxMDkxNCw2Njc2OTU0Nj
-UsMTcwNDcyMDI2NSwxNDI5MjAwMDUxLC0xMTAzMDQwNDYxLDE5
-MzM5MTQ1MTQsMTc5Mzc1NzI1NywxMzE1MTY4NDEyLDEyMTIyOT
-QwOCwtMTE3MjExNjIwMywxNTYxODc5MjUsMTA3NzcxMzM5OSwx
-Mzk2NTQ1NjMwLC02NTQ1NDk0OTcsMjA5MDI3NjMzNyw0NDA5MD
-U2MTldfQ==
+RleHQiOiLmoIfpopgiLCJzdGFydCI6MTQyLCJlbmQiOjE0NH0s
+IktoR256cTVaa01McGlJbGsiOnsic3RhcnQiOjMyMSwiZW5kIj
+ozMjMsInRleHQiOiLlvJXnlKgifX0sImNvbW1lbnRzIjp7Imkx
+WHpRbU5OdHhjc0RCdVoiOnsiZGlzY3Vzc2lvbklkIjoia2dHa1
+JVZm5OMVBiNVlQZCIsInN1YiI6ImdoOjIwMTA3OTk0OCIsInRl
+eHQiOiLmnIDlpJo25LiqIyIsImNyZWF0ZWQiOjE3NDA3NDE5OD
+g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
+ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
+k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
+5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
+J5IjpbLTEyNTcyMzM3MjksLTEzNDczNDk0MywxOTgzMTA5MTQs
+NjY3Njk1NDY1LDE3MDQ3MjAyNjUsMTQyOTIwMDA1MSwtMTEwMz
+A0MDQ2MSwxOTMzOTE0NTE0LDE3OTM3NTcyNTcsMTMxNTE2ODQx
+MiwxMjEyMjk0MDgsLTExNzIxMTYyMDMsMTU2MTg3OTI1LDEwNz
+c3MTMzOTksMTM5NjU0NTYzMCwtNjU0NTQ5NDk3LDIwOTAyNzYz
+MzcsNDQwOTA1NjE5XX0=
 -->
