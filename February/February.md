@@ -75,7 +75,7 @@
 <mark>文本</mark>				标黄
 <font color = red>文本</font> 	字体颜色
 ```
-
+<font color = red>文本</font>
 
 ## 问题
 1. 怎么调整空格的距离大小？ $\qquad$
@@ -84,7 +84,8 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTE2ODQxMiwxMjEyMjk0MDgsLTExNz
-IxMTYyMDMsMTU2MTg3OTI1LDEwNzc3MTMzOTksMTM5NjU0NTYz
-MCwtNjU0NTQ5NDk3LDIwOTAyNzYzMzcsNDQwOTA1NjE5XX0=
+eyJoaXN0b3J5IjpbMTc5Mzc1NzI1NywxMzE1MTY4NDEyLDEyMT
+IyOTQwOCwtMTE3MjExNjIwMywxNTYxODc5MjUsMTA3NzcxMzM5
+OSwxMzk2NTQ1NjMwLC02NTQ1NDk0OTcsMjA5MDI3NjMzNyw0ND
+A5MDU2MTldfQ==
 -->
