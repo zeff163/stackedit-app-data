@@ -95,7 +95,7 @@
 <u>文本</u>  <ins>文本</ins> <mark>文本</mark> <font color = red>文本</font> <sub>文本</sub> <sup>文本</sup>
 
 ## 图片
-(https://docs.github.com/assets/cb-39744/mw-1440/images/help/writing/image-rendered.webp)
+![插入图片](https://docs.github.com/assets/cb-39744/mw-1440/images/help/writing/image-rendered.webp)
 
 ## 数学环境
 下面的所有语法都是在数学环境中的（注意不要多加空格）：
@@ -164,7 +164,7 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTI2ODYxMTc5MSwxMjI3ODA2NzgsLTE5Mjc1NTQ5NTks
+J5IjpbMTU2MTYzMzA2MiwxMjI3ODA2NzgsLTE5Mjc1NTQ5NTks
 LTg5NzU4MzU5OSwxODUxODA4MTMwLC0xMjkyMjczNzA5LDk3Mz
 A2NDUxLC0xMzQ3MzQ5NDMsMTk4MzEwOTE0LDY2NzY5NTQ2NSwx
 NzA0NzIwMjY1LDE0MjkyMDAwNTEsLTExMDMwNDA0NjEsMTkzMz
