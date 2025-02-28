@@ -97,11 +97,13 @@
 |path|path|
 
 ## 灰色底框  
-```代码环境：`code` ```  （类似verb）
+```代码环境：`code` ```  （类似verb）~是~
 ``` 
 多行代码环境：```code``` 指定代码语言可以高亮，例如Python
-具体形式：```python <br/> code ```
+具体形式：```python <br/> code ```  
+也可以用 ~~~ code ~~~
 ```
+
 ## 文本标记  
 ``` markdown 
 <u>文本</u>	或者 <ins>文本</ins>	添加下划线 
@@ -193,10 +195,10 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbMTM1OTk1Mzc2MiwxNTYxNjMzMDYyLDEyMjc4MDY3OCwt
-MTkyNzU1NDk1OSwtODk3NTgzNTk5LDE4NTE4MDgxMzAsLTEyOT
-IyNzM3MDksOTczMDY0NTEsLTEzNDczNDk0MywxOTgzMTA5MTQs
-NjY3Njk1NDY1LDE3MDQ3MjAyNjUsMTQyOTIwMDA1MSwtMTEwMz
-A0MDQ2MSwxOTMzOTE0NTE0LDE3OTM3NTcyNTcsMTMxNTE2ODQx
-MiwxMjEyMjk0MDgsLTExNzIxMTYyMDMsMTU2MTg3OTI1XX0=
+J5IjpbNTE1MzQ3NDk3LDEzNTk5NTM3NjIsMTU2MTYzMzA2Miwx
+MjI3ODA2NzgsLTE5Mjc1NTQ5NTksLTg5NzU4MzU5OSwxODUxOD
+A4MTMwLC0xMjkyMjczNzA5LDk3MzA2NDUxLC0xMzQ3MzQ5NDMs
+MTk4MzEwOTE0LDY2NzY5NTQ2NSwxNzA0NzIwMjY1LDE0MjkyMD
+AwNTEsLTExMDMwNDA0NjEsMTkzMzkxNDUxNCwxNzkzNzU3MjU3
+LDEzMTUxNjg0MTIsMTIxMjI5NDA4LC0xMTcyMTE2MjAzXX0=
 -->
