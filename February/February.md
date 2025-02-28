@@ -91,6 +91,8 @@
  - [ ] (可选）第一行
 
 ## 创建表格
+可以使用竖线 | 和连字符 - 创建表。 连字符用于创建每列的标题，而竖线用于分隔每列。 必须在表格前包含空白链接，以便其正确呈现。
+单元格的宽度可以不同，无需在列内准确对齐。 标题行的第一列中必须至少有三个横线。
 |Option | Description |
 |:--:|:--:|
 |data|data|
@@ -202,7 +204,7 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTMyNDgzNTI3LDE4ODYwOTg1OTksMTM1OTk1Mzc2Miwx
+J5IjpbNjIzMjg3OTMxLDE4ODYwOTg1OTksMTM1OTk1Mzc2Miwx
 NTYxNjMzMDYyLDEyMjc4MDY3OCwtMTkyNzU1NDk1OSwtODk3NT
 gzNTk5LDE4NTE4MDgxMzAsLTEyOTIyNzM3MDksOTczMDY0NTEs
 LTEzNDczNDk0MywxOTgzMTA5MTQsNjY3Njk1NDY1LDE3MDQ3Mj
