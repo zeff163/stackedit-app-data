@@ -77,7 +77,7 @@
 <sub>文本</sub>					下标文字
 <sup>文本</sup>					上标文字
 ```
-<u>文本</u>  <ins>文本</ins> <mark>文本</mark> <font color = red>文本</font>
+<u>文本</u>  <ins>文本</ins> <mark>文本</mark> <font color = red>文本</font> <sub>文本</sub> <sup>文本</sup>
 
 ## 数学环境
 下面的所有语法都是在数学环境中的（注意不要多加空格）：
@@ -121,10 +121,10 @@ RleHQiOiLmoIfpopgiLCJzdGFydCI6MTQyLCJlbmQiOjE0NH19
 LCJjb21tZW50cyI6eyJpMVh6UW1OTnR4Y3NEQnVaIjp7ImRpc2
 N1c3Npb25JZCI6ImtnR2tSVWZuTjFQYjVZUGQiLCJzdWIiOiJn
 aDoyMDEwNzk5NDgiLCJ0ZXh0Ijoi5pyA5aSaNuS4qiMiLCJjcm
-VhdGVkIjoxNzQwNzQxOTg4NDE5fX0sImhpc3RvcnkiOls3MDMz
-NzUzODksMTk4MzEwOTE0LDY2NzY5NTQ2NSwxNzA0NzIwMjY1LD
-E0MjkyMDAwNTEsLTExMDMwNDA0NjEsMTkzMzkxNDUxNCwxNzkz
-NzU3MjU3LDEzMTUxNjg0MTIsMTIxMjI5NDA4LC0xMTcyMTE2Mj
-AzLDE1NjE4NzkyNSwxMDc3NzEzMzk5LDEzOTY1NDU2MzAsLTY1
-NDU0OTQ5NywyMDkwMjc2MzM3LDQ0MDkwNTYxOV19
+VhdGVkIjoxNzQwNzQxOTg4NDE5fX0sImhpc3RvcnkiOlstMTM0
+NzM0OTQzLDE5ODMxMDkxNCw2Njc2OTU0NjUsMTcwNDcyMDI2NS
+wxNDI5MjAwMDUxLC0xMTAzMDQwNDYxLDE5MzM5MTQ1MTQsMTc5
+Mzc1NzI1NywxMzE1MTY4NDEyLDEyMTIyOTQwOCwtMTE3MjExNj
+IwMywxNTYxODc5MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMwLC02
+NTQ1NDk0OTcsMjA5MDI3NjMzNyw0NDA5MDU2MTldfQ==
 -->
