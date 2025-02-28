@@ -63,10 +63,10 @@
 |path|path|
 
 ## 灰色底框  
-`代码环境`  （类似verb）
+```代码环境：```  （类似verb）
 ``` 
 
-多行代码环境
+多行代码环境：要三个```
 
 ```
 ## 文本强调  
@@ -119,8 +119,8 @@ RleHQiOiLmoIfpopgiLCJzdGFydCI6MTQyLCJlbmQiOjE0NH19
 LCJjb21tZW50cyI6eyJpMVh6UW1OTnR4Y3NEQnVaIjp7ImRpc2
 N1c3Npb25JZCI6ImtnR2tSVWZuTjFQYjVZUGQiLCJzdWIiOiJn
 aDoyMDEwNzk5NDgiLCJ0ZXh0Ijoi5pyA5aSaNuS4qiMiLCJjcm
-VhdGVkIjoxNzQwNzQxOTg4NDE5fX0sImhpc3RvcnkiOlstMTU0
-NzQ1NjEzOSwxNzA0NzIwMjY1LDE0MjkyMDAwNTEsLTExMDMwND
+VhdGVkIjoxNzQwNzQxOTg4NDE5fX0sImhpc3RvcnkiOlstMTgx
+MjQzOTQzOSwxNzA0NzIwMjY1LDE0MjkyMDAwNTEsLTExMDMwND
 A0NjEsMTkzMzkxNDUxNCwxNzkzNzU3MjU3LDEzMTUxNjg0MTIs
 MTIxMjI5NDA4LC0xMTcyMTE2MjAzLDE1NjE4NzkyNSwxMDc3Nz
 EzMzk5LDEzOTY1NDU2MzAsLTY1NDU0OTQ5NywyMDkwMjc2MzM3
