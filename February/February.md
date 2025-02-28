@@ -193,8 +193,16 @@ $\boxed{文本}\colorbox{red}{文本}$
 	```
 
 ## 折叠代码
-`<details>` 块中的任何 `Markdown` 都将被折叠，直到读者单击  展开详细信息。
-在 `<details> 块中，使用 <summary> 标记让读者知道里面的内容。 标签显示在  的右侧。
+`<details>` 块中的任何 `Markdown` 都将被折叠，直到读者单击  展开详细信息。在 `<details> `块中，使用 `<summary>` 标记让读者知道里面的内容。 标签显示在  的右侧。
+````
+<details>
+<summary>展开</summary>
+一段代码
+```ruby
+   puts "Hello World"
+```
+</details>
+````
 
 ## 问题
 ### 代码问题
@@ -238,10 +246,10 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTEyNDkwMTE4MzUsMTg4NjA5ODU5OSwxMzU5OTUzNzYy
-LDE1NjE2MzMwNjIsMTIyNzgwNjc4LC0xOTI3NTU0OTU5LC04OT
-c1ODM1OTksMTg1MTgwODEzMCwtMTI5MjI3MzcwOSw5NzMwNjQ1
-MSwtMTM0NzM0OTQzLDE5ODMxMDkxNCw2Njc2OTU0NjUsMTcwND
-cyMDI2NSwxNDI5MjAwMDUxLC0xMTAzMDQwNDYxLDE5MzM5MTQ1
-MTQsMTc5Mzc1NzI1NywxMzE1MTY4NDEyLDEyMTIyOTQwOF19
+J5IjpbOTE4MDA4NjU3LDE4ODYwOTg1OTksMTM1OTk1Mzc2Miwx
+NTYxNjMzMDYyLDEyMjc4MDY3OCwtMTkyNzU1NDk1OSwtODk3NT
+gzNTk5LDE4NTE4MDgxMzAsLTEyOTIyNzM3MDksOTczMDY0NTEs
+LTEzNDczNDk0MywxOTgzMTA5MTQsNjY3Njk1NDY1LDE3MDQ3Mj
+AyNjUsMTQyOTIwMDA1MSwtMTEwMzA0MDQ2MSwxOTMzOTE0NTE0
+LDE3OTM3NTcyNTcsMTMxNTE2ODQxMiwxMjEyMjk0MDhdfQ==
 -->
