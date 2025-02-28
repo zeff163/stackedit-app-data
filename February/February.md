@@ -77,8 +77,10 @@
 ```
 <u>文本</u>  <mark>文本</mark> <font color = red>文本</font>
 
-## 盒子  
-$\frac{q}{q}$
+## 数学环境
+下面的所有语法都是在数学环境中的：
+### 盒子 
+$\boxed{文本}$
 
 ## 问题
 1. 怎么调整空格的距离大小？ $\qquad$
@@ -87,8 +89,8 @@ $\frac{q}{q}$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzA5NDMzOSwxNzkzNzU3MjU3LDEzMT
-UxNjg0MTIsMTIxMjI5NDA4LC0xMTcyMTE2MjAzLDE1NjE4Nzky
-NSwxMDc3NzEzMzk5LDEzOTY1NDU2MzAsLTY1NDU0OTQ5NywyMD
-kwMjc2MzM3LDQ0MDkwNTYxOV19
+eyJoaXN0b3J5IjpbLTExNjE0OTQxMjQsMTc5Mzc1NzI1NywxMz
+E1MTY4NDEyLDEyMTIyOTQwOCwtMTE3MjExNjIwMywxNTYxODc5
+MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMwLC02NTQ1NDk0OTcsMj
+A5MDI3NjMzNyw0NDA5MDU2MTldfQ==
 -->
