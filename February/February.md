@@ -88,7 +88,12 @@ $\boxed{文本}\colorbox{red}{文本}$
 
 ```
 
-## 换行  
+## 对齐与换行
+```
+<p align = "left">		左对齐  
+<p align = "center">	右对齐  
+<p align = "right">		
+```
 `<br/>`为强制换行符 ，例如：<br/>换行
 
 
@@ -99,7 +104,7 @@ $\boxed{文本}\colorbox{red}{文本}$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTY5MTg3NCwxOTMzOTE0NTE0LDE3OT
+eyJoaXN0b3J5IjpbLTM1OTMxOTMzMiwxOTMzOTE0NTE0LDE3OT
 M3NTcyNTcsMTMxNTE2ODQxMiwxMjEyMjk0MDgsLTExNzIxMTYy
 MDMsMTU2MTg3OTI1LDEwNzc3MTMzOTksMTM5NjU0NTYzMCwtNj
 U0NTQ5NDk3LDIwOTAyNzYzMzcsNDQwOTA1NjE5XX0=
