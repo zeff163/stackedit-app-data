@@ -90,10 +90,15 @@ $\boxed{文本}\colorbox{red}{文本}$
 
 ## 对齐与换行
 ```
+-----该行的内容全部都以这种方式对齐
 <p align = "left">		左对齐  
-<p align = "center">	右对齐  
-<p align = "right">		
+<p align = "center">	居中对齐  
+<p align = "right">		右对齐
 ```
+<p align = "right">		左对齐 
+<p align = "center">	居中对齐  
+<p align = "left">		右对齐  
+
 `<br/>`为强制换行符 ，例如：<br/>换行
 
 
@@ -104,8 +109,8 @@ $\boxed{文本}\colorbox{red}{文本}$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTMxOTMzMiwxOTMzOTE0NTE0LDE3OT
-M3NTcyNTcsMTMxNTE2ODQxMiwxMjEyMjk0MDgsLTExNzIxMTYy
-MDMsMTU2MTg3OTI1LDEwNzc3MTMzOTksMTM5NjU0NTYzMCwtNj
-U0NTQ5NDk3LDIwOTAyNzYzMzcsNDQwOTA1NjE5XX0=
+eyJoaXN0b3J5IjpbNzkwMDAxOTMyLDE5MzM5MTQ1MTQsMTc5Mz
+c1NzI1NywxMzE1MTY4NDEyLDEyMTIyOTQwOCwtMTE3MjExNjIw
+MywxNTYxODc5MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMwLC02NT
+Q1NDk0OTcsMjA5MDI3NjMzNyw0NDA5MDU2MTldfQ==
 -->
