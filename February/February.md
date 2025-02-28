@@ -57,12 +57,15 @@
 	注意2：括号是英文括号，不要写成中文括号
 	注意3：相对链接更便于用户克隆仓库。 绝对链接可能无法用于仓库的克隆，**建议使用相对链接引用仓库中的其他文件**。</font>
 * 自定义位点：可使用标准 HTML 定位点标记 (`<a id="unique-anchor-name"></a>`) 为文档中的任何位置创建导航定位点。 为了避免不明确的引用，请对定位点标记使用唯一的命名方案，例如向 id 属性值添加前缀。[跳转到开始](#01-1)
+		<p align=center>
 	```
 	Some text <a id="name"></a>
 	[A link](#name)
 	```
+		</p>
 	<font color = red>注意1：在github中代码格式(好像)为`<a name="unique-anchor-name"></a>`，把`id`改成`name`。
-	注意2：不要在设定的名字里面加空格，可以用-替代，yi
+	注意2：不要在设定的名字里面加空格，可以用-替代，以免无法识别。
+	注意3：
 
 ## 代办事项列表  
  - [ ] 第一行  
@@ -139,7 +142,7 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTIwMTU0NzI5OSwtMTkyNzU1NDk1OSwtODk3NTgzNTk5
+J5IjpbLTE3NTQyNDYzMywtMTkyNzU1NDk1OSwtODk3NTgzNTk5
 LDE4NTE4MDgxMzAsLTEyOTIyNzM3MDksOTczMDY0NTEsLTEzND
 czNDk0MywxOTgzMTA5MTQsNjY3Njk1NDY1LDE3MDQ3MjAyNjUs
 MTQyOTIwMDA1MSwtMTEwMzA0MDQ2MSwxOTMzOTE0NTE0LDE3OT
