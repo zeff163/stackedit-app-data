@@ -97,7 +97,7 @@
 |path|path|
 
 ## 灰色底框  
-```代码环境：`code` ```  （类似verb）~是~
+```代码环境：`code` ```  （类似verb）
 ``` 
 多行代码环境：```code``` 指定代码语言可以高亮，例如Python
 具体形式：```python <br/> code ```  
@@ -109,10 +109,10 @@
 <u>文本</u>	或者 <ins>文本</ins>	添加下划线 
 <mark>文本</mark>				文字标黄
 <font color = red>文本</font> 	字体颜色
-<sub>文本</sub>					下标文字
+<sub>文本</sub>	或者 ~文本~		下标文字
 <sup>文本</sup>					上标文字
 ```
-<u>文本</u>  <ins>文本</ins> <mark>文本</mark> <font color = red>文本</font> <sub>文本</sub> <sup>文本</sup>
+<u>文本</u>  <ins>文本</ins> <mark>文本</mark> <font color = red>文本</font> <sub>文本</sub> ~文本~<sup>文本</sup>
 
 ## 图片
 通过添加` !` 并 将` alt` 文本用 `[ ]` 括起来，可显示图像。 替换文字是等效于图像中信息的短文本。 然后将图像的链接用括号 `()` 括起来。
@@ -195,10 +195,10 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbNTE1MzQ3NDk3LDEzNTk5NTM3NjIsMTU2MTYzMzA2Miwx
-MjI3ODA2NzgsLTE5Mjc1NTQ5NTksLTg5NzU4MzU5OSwxODUxOD
-A4MTMwLC0xMjkyMjczNzA5LDk3MzA2NDUxLC0xMzQ3MzQ5NDMs
-MTk4MzEwOTE0LDY2NzY5NTQ2NSwxNzA0NzIwMjY1LDE0MjkyMD
-AwNTEsLTExMDMwNDA0NjEsMTkzMzkxNDUxNCwxNzkzNzU3MjU3
-LDEzMTUxNjg0MTIsMTIxMjI5NDA4LC0xMTcyMTE2MjAzXX0=
+J5IjpbMTg4NjA5ODU5OSwxMzU5OTUzNzYyLDE1NjE2MzMwNjIs
+MTIyNzgwNjc4LC0xOTI3NTU0OTU5LC04OTc1ODM1OTksMTg1MT
+gwODEzMCwtMTI5MjI3MzcwOSw5NzMwNjQ1MSwtMTM0NzM0OTQz
+LDE5ODMxMDkxNCw2Njc2OTU0NjUsMTcwNDcyMDI2NSwxNDI5Mj
+AwMDUxLC0xMTAzMDQwNDYxLDE5MzM5MTQ1MTQsMTc5Mzc1NzI1
+NywxMzE1MTY4NDEyLDEyMTIyOTQwOCwtMTE3MjExNjIwM119
 -->
