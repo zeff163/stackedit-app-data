@@ -56,7 +56,10 @@
 	<font color = red>注意1：描写该链接时，整个部分必须在一行上，换行的话会不起作用，可能是添加了空格的原因
 	注意2：括号是英文括号，不要写成中文括号
 	注意3：相对链接更便于用户克隆仓库。 绝对链接可能无法用于仓库的克隆，**建议使用相对链接引用仓库中的其他文件**。</font>
-* 自定义位点：
+* 自定义位点：可使用标准 HTML 定位点标记 (`<a name="unique-anchor-name"></a>`) 为文档中的任何位置创建导航定位点。 为了避免不明确的引用，请对定位点标记使用唯一的命名方案，例如向 name 属性值添加前缀。
+	```
+	
+	```
 
 ## 代办事项列表  
  - [ ] 第一行  
@@ -133,10 +136,10 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTE5Mjc1NTQ5NTksLTg5NzU4MzU5OSwxODUxODA4MTMw
-LC0xMjkyMjczNzA5LDk3MzA2NDUxLC0xMzQ3MzQ5NDMsMTk4Mz
-EwOTE0LDY2NzY5NTQ2NSwxNzA0NzIwMjY1LDE0MjkyMDAwNTEs
-LTExMDMwNDA0NjEsMTkzMzkxNDUxNCwxNzkzNzU3MjU3LDEzMT
-UxNjg0MTIsMTIxMjI5NDA4LC0xMTcyMTE2MjAzLDE1NjE4Nzky
-NSwxMDc3NzEzMzk5LDEzOTY1NDU2MzAsLTY1NDU0OTQ5N119
+J5IjpbLTI5NzQwMTg3NCwtMTkyNzU1NDk1OSwtODk3NTgzNTk5
+LDE4NTE4MDgxMzAsLTEyOTIyNzM3MDksOTczMDY0NTEsLTEzND
+czNDk0MywxOTgzMTA5MTQsNjY3Njk1NDY1LDE3MDQ3MjAyNjUs
+MTQyOTIwMDA1MSwtMTEwMzA0MDQ2MSwxOTMzOTE0NTE0LDE3OT
+M3NTcyNTcsMTMxNTE2ODQxMiwxMjEyMjk0MDgsLTExNzIxMTYy
+MDMsMTU2MTg3OTI1LDEwNzc3MTMzOTksMTM5NjU0NTYzMF19
 -->
