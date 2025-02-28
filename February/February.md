@@ -72,7 +72,7 @@
 ## 文本强调  
 ``` 
 <u>文本</u>						添加下划线 
-<mark>文本</mark>				标黄
+<mark>文本</mark>				文字标黄
 <font color = red>文本</font> 	字体颜色
 ```
 <font color = red>文本</font>
