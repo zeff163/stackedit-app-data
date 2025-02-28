@@ -49,8 +49,8 @@
 
 ## 超链接 
 * 普通超链接：< http: //+具体网址 >  例如：<https://stackedit.cn/app#>  
-* 带标题的超链接：[ 标题 ]（http: //+ 具体网址）例如[StackEdit](https://stackedit.cn/app#)
-* 文档之间的链接：[ 标题 ]（文件夹1/文件）
+* 带标题的超链接：[ 标题 ]（http: //+ 具体网址）例如 [StackEdit](https://stackedit.cn/app#)
+* 文档之间的链接：[ 标题 ]（文件夹1/.../文件）例如 [Readme](/README.md)
 
 ## 代办事项列表  
  - [ ] 第一行  
@@ -127,10 +127,10 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTIzODE3ODgxOCwtMTI5MjI3MzcwOSw5NzMwNjQ1MSwt
-MTM0NzM0OTQzLDE5ODMxMDkxNCw2Njc2OTU0NjUsMTcwNDcyMD
-I2NSwxNDI5MjAwMDUxLC0xMTAzMDQwNDYxLDE5MzM5MTQ1MTQs
-MTc5Mzc1NzI1NywxMzE1MTY4NDEyLDEyMTIyOTQwOCwtMTE3Mj
-ExNjIwMywxNTYxODc5MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMw
-LC02NTQ1NDk0OTcsMjA5MDI3NjMzNyw0NDA5MDU2MTldfQ==
+J5IjpbNDIxNjUzNTAzLC0xMjkyMjczNzA5LDk3MzA2NDUxLC0x
+MzQ3MzQ5NDMsMTk4MzEwOTE0LDY2NzY5NTQ2NSwxNzA0NzIwMj
+Y1LDE0MjkyMDAwNTEsLTExMDMwNDA0NjEsMTkzMzkxNDUxNCwx
+NzkzNzU3MjU3LDEzMTUxNjg0MTIsMTIxMjI5NDA4LC0xMTcyMT
+E2MjAzLDE1NjE4NzkyNSwxMDc3NzEzMzk5LDEzOTY1NDU2MzAs
+LTY1NDU0OTQ5NywyMDkwMjc2MzM3LDQ0MDkwNTYxOV19
 -->
