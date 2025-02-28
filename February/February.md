@@ -71,11 +71,11 @@
 ```
 ## 文本强调  
 ``` 
-<u>文本</u>	或者 					添加下划线 
+<u>文本</u>	或者 <ins>文本</ins>	添加下划线 
 <mark>文本</mark>				文字标黄
 <font color = red>文本</font> 	字体颜色
 ```
-<u>文本</u>  <mark>文本</mark> <font color = red>文本</font>
+<u>文本</u>  <ins>文本</ins> <mark>文本</mark> <font color = red>文本</font>
 
 ## 数学环境
 下面的所有语法都是在数学环境中的（注意不要多加空格）：
@@ -113,9 +113,14 @@ $\boxed{文本}\colorbox{red}{文本}$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTQwMTg1MCwtMTEwMzA0MDQ2MSwxOT
-MzOTE0NTE0LDE3OTM3NTcyNTcsMTMxNTE2ODQxMiwxMjEyMjk0
-MDgsLTExNzIxMTYyMDMsMTU2MTg3OTI1LDEwNzc3MTMzOTksMT
-M5NjU0NTYzMCwtNjU0NTQ5NDk3LDIwOTAyNzYzMzcsNDQwOTA1
-NjE5XX0=
+eyJkaXNjdXNzaW9ucyI6eyJrZ0drUlVmbk4xUGI1WVBkIjp7In
+N0YXJ0IjoxNDIsImVuZCI6MTQ0LCJ0ZXh0Ijoi5qCH6aKYIn19
+LCJjb21tZW50cyI6eyJpMVh6UW1OTnR4Y3NEQnVaIjp7ImRpc2
+N1c3Npb25JZCI6ImtnR2tSVWZuTjFQYjVZUGQiLCJzdWIiOiJn
+aDoyMDEwNzk5NDgiLCJ0ZXh0Ijoi5pyA5aSaNuS4qiMiLCJjcm
+VhdGVkIjoxNzQwNzQxOTg4NDE5fX0sImhpc3RvcnkiOlsxNDI5
+MjAwMDUxLC0xMTAzMDQwNDYxLDE5MzM5MTQ1MTQsMTc5Mzc1Nz
+I1NywxMzE1MTY4NDEyLDEyMTIyOTQwOCwtMTE3MjExNjIwMywx
+NTYxODc5MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMwLC02NTQ1ND
+k0OTcsMjA5MDI3NjMzNyw0NDA5MDU2MTldfQ==
 -->
