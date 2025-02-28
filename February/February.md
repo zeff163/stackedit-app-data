@@ -106,8 +106,8 @@
 可以从仓库显示图像、添加在线图像链接或上传图像。
 **注：想要显示存储库中的图像时，请使用相对链接而不是绝对链接。具体绝对链接的表达方式，参考[文档](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)中图像部分**
 
-##
-
+## 图片元素
+支持`<picture>`HTML元素。
 
 ## 数学环境
 下面的所有语法都是在数学环境中的（注意不要多加空格）：
@@ -176,10 +176,10 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTEzNDU3MTk3NDYsMTU2MTYzMzA2MiwxMjI3ODA2Nzgs
-LTE5Mjc1NTQ5NTksLTg5NzU4MzU5OSwxODUxODA4MTMwLC0xMj
-kyMjczNzA5LDk3MzA2NDUxLC0xMzQ3MzQ5NDMsMTk4MzEwOTE0
-LDY2NzY5NTQ2NSwxNzA0NzIwMjY1LDE0MjkyMDAwNTEsLTExMD
-MwNDA0NjEsMTkzMzkxNDUxNCwxNzkzNzU3MjU3LDEzMTUxNjg0
-MTIsMTIxMjI5NDA4LC0xMTcyMTE2MjAzLDE1NjE4NzkyNV19
+J5IjpbLTU0MDY1MTIyLDE1NjE2MzMwNjIsMTIyNzgwNjc4LC0x
+OTI3NTU0OTU5LC04OTc1ODM1OTksMTg1MTgwODEzMCwtMTI5Mj
+I3MzcwOSw5NzMwNjQ1MSwtMTM0NzM0OTQzLDE5ODMxMDkxNCw2
+Njc2OTU0NjUsMTcwNDcyMDI2NSwxNDI5MjAwMDUxLC0xMTAzMD
+QwNDYxLDE5MzM5MTQ1MTQsMTc5Mzc1NzI1NywxMzE1MTY4NDEy
+LDEyMTIyOTQwOCwtMTE3MjExNjIwMywxNTYxODc5MjVdfQ==
 -->
