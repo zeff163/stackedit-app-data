@@ -28,8 +28,12 @@
 > 
 
 ## 列表  
-使用 + ，- ，* 生成标签 （要带kong'ge）
-* 工行建行
+使用 + ，- ，* 生成标签 （要带空格）
+* 标签1  
++ 标签2  
+- 标签3  
+*** 
+duo'ceng
 
 
  
@@ -37,7 +41,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjUyNTIyMjUsLTExNzIxMTYyMDMsMT
+eyJoaXN0b3J5IjpbLTEwMTI2NjIyODMsLTExNzIxMTYyMDMsMT
 U2MTg3OTI1LDEwNzc3MTMzOTksMTM5NjU0NTYzMCwtNjU0NTQ5
 NDk3LDIwOTAyNzYzMzcsNDQwOTA1NjE5XX0=
 -->
