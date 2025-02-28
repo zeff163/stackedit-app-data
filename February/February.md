@@ -53,6 +53,8 @@
 * 文档之间的链接（一般建议是Markdown文件）：
 	+ **绝对路径**：[ 标题 ]（文件夹1/.../文件）例如 [Readme](/README.md) 
 	+ **相对路径**：[ 标题 ]（.././文件）使用`/ ./ ../`来显示路径 
+			```
+		```
 	<font color = red>注意1：描写该链接时，整个部分必须在一行上，换行的话会不起作用，可能是添加了空格的原因
 	注意2：括号是英文括号，不要写成中文括号
 	注意3：相对链接更便于用户克隆仓库。 绝对链接可能无法用于仓库的克隆，**建议使用相对链接引用仓库中的其他文件**。</font>
@@ -172,10 +174,10 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTEwNTk2MTQzMzAsMTU2MTYzMzA2MiwxMjI3ODA2Nzgs
-LTE5Mjc1NTQ5NTksLTg5NzU4MzU5OSwxODUxODA4MTMwLC0xMj
-kyMjczNzA5LDk3MzA2NDUxLC0xMzQ3MzQ5NDMsMTk4MzEwOTE0
-LDY2NzY5NTQ2NSwxNzA0NzIwMjY1LDE0MjkyMDAwNTEsLTExMD
-MwNDA0NjEsMTkzMzkxNDUxNCwxNzkzNzU3MjU3LDEzMTUxNjg0
-MTIsMTIxMjI5NDA4LC0xMTcyMTE2MjAzLDE1NjE4NzkyNV19
+J5IjpbLTk0NTM3NTc3OCwxNTYxNjMzMDYyLDEyMjc4MDY3OCwt
+MTkyNzU1NDk1OSwtODk3NTgzNTk5LDE4NTE4MDgxMzAsLTEyOT
+IyNzM3MDksOTczMDY0NTEsLTEzNDczNDk0MywxOTgzMTA5MTQs
+NjY3Njk1NDY1LDE3MDQ3MjAyNjUsMTQyOTIwMDA1MSwtMTEwMz
+A0MDQ2MSwxOTMzOTE0NTE0LDE3OTM3NTcyNTcsMTMxNTE2ODQx
+MiwxMjEyMjk0MDgsLTExNzIxMTYyMDMsMTU2MTg3OTI1XX0=
 -->
