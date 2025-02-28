@@ -56,6 +56,8 @@
  - [ ] 第二行
  - [x] 第三行 
 
+## 创建表格
+
 
 ## 问题
 1. 怎么调整空格的距离大小？ $\qquad$
@@ -64,7 +66,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTQ2MTExMywtMTE3MjExNjIwMywxNT
-YxODc5MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMwLC02NTQ1NDk0
-OTcsMjA5MDI3NjMzNyw0NDA5MDU2MTldfQ==
+eyJoaXN0b3J5IjpbMTIxMjI5NDA4LC0xMTcyMTE2MjAzLDE1Nj
+E4NzkyNSwxMDc3NzEzMzk5LDEzOTY1NDU2MzAsLTY1NDU0OTQ5
+NywyMDkwMjc2MzM3LDQ0MDkwNTYxOV19
 -->
