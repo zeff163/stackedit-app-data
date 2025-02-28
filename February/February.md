@@ -27,14 +27,17 @@
 > 退出引用  （如何回到一层引用？）
 > 
 
-## 列表
+## 列表  
+使用 + ，- ，* 生成标签 （要带kong'ge）
+* 工行建行
+
 
  
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTAzMTA1MSwtMTE3MjExNjIwMywxNT
-YxODc5MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMwLC02NTQ1NDk0
-OTcsMjA5MDI3NjMzNyw0NDA5MDU2MTldfQ==
+eyJoaXN0b3J5IjpbLTEwNjUyNTIyMjUsLTExNzIxMTYyMDMsMT
+U2MTg3OTI1LDEwNzc3MTMzOTksMTM5NjU0NTYzMCwtNjU0NTQ5
+NDk3LDIwOTAyNzYzMzcsNDQwOTA1NjE5XX0=
 -->
