@@ -58,11 +58,12 @@
 
 ## 创建表格
 |Option | Description |
-|--|--|
-|--|--|
+|:--:|:--:|
 |data|data|
 |path|path|
 
+## 灰色底框  
+~
 
 ## 问题
 1. 怎么调整空格的距离大小？ $\qquad$
@@ -71,7 +72,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjExMzA2ODUsMTIxMjI5NDA4LC0xMT
+eyJoaXN0b3J5IjpbLTEzMjQ4NTMwMjYsMTIxMjI5NDA4LC0xMT
 cyMTE2MjAzLDE1NjE4NzkyNSwxMDc3NzEzMzk5LDEzOTY1NDU2
 MzAsLTY1NDU0OTQ5NywyMDkwMjc2MzM3LDQ0MDkwNTYxOV19
 -->
