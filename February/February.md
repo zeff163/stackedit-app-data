@@ -8,7 +8,7 @@
 > + ***环境***  
 > + 呼叫
 
->  # 正文开始  <a id="01-1"></a>
+>  # 正文开始  <a id=" 01-1"></a>
 >   ## 章节标题  
 >   使用 # 来添加标题（记得#后带空格）
 >   **问题** ：是否在标题那一行均是标题的格式？能否写入正文格式的内容。  
@@ -58,9 +58,10 @@
 	注意3：相对链接更便于用户克隆仓库。 绝对链接可能无法用于仓库的克隆，**建议使用相对链接引用仓库中的其他文件**。</font>
 * 自定义位点：可使用标准 HTML 定位点标记 (`<a id="unique-anchor-name"></a>`) 为文档中的任何位置创建导航定位点。 为了避免不明确的引用，请对定位点标记使用唯一的命名方案，例如向 id 属性值添加前缀。
 	```
-	
+	Some text <a id="name"></a>
+	[A link](#name)
 	```
-	[跳转到开始](#01-1)
+	[跳转到开始](# 01-1)
 
 ## 代办事项列表  
  - [ ] 第一行  
@@ -127,9 +128,9 @@ $\boxed{文本}\colorbox{red}{文本}$
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJrZ0drUlVmbk4xUGI1WVBkIjp7In
-RleHQiOiLmoIfpopgiLCJzdGFydCI6MTU5LCJlbmQiOjE2MX0s
-IktoR256cTVaa01McGlJbGsiOnsic3RhcnQiOjMzOCwiZW5kIj
-ozNDAsInRleHQiOiLlvJXnlKgifX0sImNvbW1lbnRzIjp7Imkx
+RleHQiOiLmoIfpopgiLCJzdGFydCI6MTYwLCJlbmQiOjE2Mn0s
+IktoR256cTVaa01McGlJbGsiOnsic3RhcnQiOjMzOSwiZW5kIj
+ozNDEsInRleHQiOiLlvJXnlKgifX0sImNvbW1lbnRzIjp7Imkx
 WHpRbU5OdHhjc0RCdVoiOnsiZGlzY3Vzc2lvbklkIjoia2dHa1
 JVZm5OMVBiNVlQZCIsInN1YiI6ImdoOjIwMTA3OTk0OCIsInRl
 eHQiOiLmnIDlpJo25LiqIyIsImNyZWF0ZWQiOjE3NDA3NDE5OD
@@ -137,7 +138,7 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTM1MTAxNTk5LC0xOTI3NTU0OTU5LC04OTc1ODM1OTks
+J5IjpbOTY4Njc5MDIzLC0xOTI3NTU0OTU5LC04OTc1ODM1OTks
 MTg1MTgwODEzMCwtMTI5MjI3MzcwOSw5NzMwNjQ1MSwtMTM0Nz
 M0OTQzLDE5ODMxMDkxNCw2Njc2OTU0NjUsMTcwNDcyMDI2NSwx
 NDI5MjAwMDUxLC0xMTAzMDQwNDYxLDE5MzM5MTQ1MTQsMTc5Mz
