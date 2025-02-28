@@ -95,6 +95,11 @@
 <u>文本</u>  <ins>文本</ins> <mark>文本</mark> <font color = red>文本</font> <sub>文本</sub> <sup>文本</sup>
 
 ## 图片
+通过添加` !` 并 将` alt` 文本用 `[ ]` 括起来，可显示图像。 替换文字是等效于图像中信息的短文本。 然后将图像的链接用括号 `()` 括起来。
+```
+![...](https://docs.github.com/assets/cb-39744/mw-1440/images/help/writing/image-rendered.webp)
+```
+
 ![插入图片](https://docs.github.com/assets/cb-39744/mw-1440/images/help/writing/image-rendered.webp)
 
 ## 数学环境
@@ -164,10 +169,10 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbMTU2MTYzMzA2MiwxMjI3ODA2NzgsLTE5Mjc1NTQ5NTks
-LTg5NzU4MzU5OSwxODUxODA4MTMwLC0xMjkyMjczNzA5LDk3Mz
-A2NDUxLC0xMzQ3MzQ5NDMsMTk4MzEwOTE0LDY2NzY5NTQ2NSwx
-NzA0NzIwMjY1LDE0MjkyMDAwNTEsLTExMDMwNDA0NjEsMTkzMz
-kxNDUxNCwxNzkzNzU3MjU3LDEzMTUxNjg0MTIsMTIxMjI5NDA4
-LC0xMTcyMTE2MjAzLDE1NjE4NzkyNSwxMDc3NzEzMzk5XX0=
+J5IjpbMTM2MjY4NTIyMywxNTYxNjMzMDYyLDEyMjc4MDY3OCwt
+MTkyNzU1NDk1OSwtODk3NTgzNTk5LDE4NTE4MDgxMzAsLTEyOT
+IyNzM3MDksOTczMDY0NTEsLTEzNDczNDk0MywxOTgzMTA5MTQs
+NjY3Njk1NDY1LDE3MDQ3MjAyNjUsMTQyOTIwMDA1MSwtMTEwMz
+A0MDQ2MSwxOTMzOTE0NTE0LDE3OTM3NTcyNTcsMTMxNTE2ODQx
+MiwxMjEyMjk0MDgsLTExNzIxMTYyMDMsMTU2MTg3OTI1XX0=
 -->
