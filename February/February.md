@@ -81,12 +81,9 @@
 下面的所有语法都是在数学环境中的（注意不要多加空格）：
 ### 盒子 
 $\boxed{文本}\colorbox{red}{文本}$
-$$
-\begin{tabular}{c]
-ghj 
-\end{tabular}
-$$
 
+## 换行  
+`<br/>`为强制换行符 <br/> ghjg
 
 
 ## 问题
@@ -96,8 +93,8 @@ $$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5NTUwMTU4LDE5MzM5MTQ1MTQsMTc5Mz
-c1NzI1NywxMzE1MTY4NDEyLDEyMTIyOTQwOCwtMTE3MjExNjIw
-MywxNTYxODc5MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMwLC02NT
-Q1NDk0OTcsMjA5MDI3NjMzNyw0NDA5MDU2MTldfQ==
+eyJoaXN0b3J5IjpbMjA0NTUwODk1NiwxOTMzOTE0NTE0LDE3OT
+M3NTcyNTcsMTMxNTE2ODQxMiwxMjEyMjk0MDgsLTExNzIxMTYy
+MDMsMTU2MTg3OTI1LDEwNzc3MTMzOTksMTM5NjU0NTYzMCwtNj
+U0NTQ5NDk3LDIwOTAyNzYzMzcsNDQwOTA1NjE5XX0=
 -->
