@@ -50,8 +50,9 @@
 ## 超链接 
 * 普通超链接：< http: //+具体网址 >  例如：<https://stackedit.cn/app#>  
 * 带标题的超链接：[ 标题 ]（http: //+ 具体网址）例如 [StackEdit](https://stackedit.cn/app#)
-* 文档之间的链接：[ 标题 ]（文件夹1/.../文件）例如 [Readme](/README.md) 
-**注意：描写该链接时，整个部分必须在一行上，换行的话会不起作用，可能是添加了空格的原因**
+* 文档之间的链接：
+	+ **绝对路径**：[ 标题 ]（文件夹1/.../文件）例如 [Readme](/README.md) 
+<font color = red>注意：描写该链接时，整个部分必须在一行上，换行的话会不起作用，可能是添加了空格的原因
 * 
 
 ## 代办事项列表  
@@ -129,7 +130,7 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTEyNzk0MTQ4NTAsLTEyOTIyNzM3MDksOTczMDY0NTEs
+J5IjpbLTIwMDcyNTc4MTAsLTEyOTIyNzM3MDksOTczMDY0NTEs
 LTEzNDczNDk0MywxOTgzMTA5MTQsNjY3Njk1NDY1LDE3MDQ3Mj
 AyNjUsMTQyOTIwMDA1MSwtMTEwMzA0MDQ2MSwxOTMzOTE0NTE0
 LDE3OTM3NTcyNTcsMTMxNTE2ODQxMiwxMjEyMjk0MDgsLTExNz
