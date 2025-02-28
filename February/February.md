@@ -91,12 +91,18 @@
  - [ ] (可选）第一行
 
 ## 创建表格
-可以使用竖线 | 和连字符 - 创建表。 连字符用于创建每列的标题，而竖线用于分隔每列。 必须在表格前包含空白链接，以便其正确呈现。
-单元格的宽度可以不同，无需在列内准确对齐。 标题行的第一列中必须至少有三个横线。
+可以使用竖线` |` 和连字符 `-` 创建表。 连字符用于创建每列的标题，而竖线用于分隔每列。 必须在表格前包含空白链接，以便其正确呈现。
+```
 |Option | Description |
-|:--:|:--:|
+|--:|:--:|
 |data|data|
 |path|path|
+```
+|Option | Description |
+|--:|:--:|
+|data|data|
+|path|path|
+单元格的宽度可以不同，无需在列内准确对齐。 标题行的第一列中必须至少有三个横线。
 
 ## 灰色底框  
 ```代码环境：`code` ```  （类似verb）
@@ -188,6 +194,8 @@ $\boxed{文本}\colorbox{red}{文本}$
 1. 怎么调整空格的距离大小？  $\qquad$ 
 2. latex数学环境``\)
 3. 代码环境中内容怎么居中？
+4. 代码自动补全功能？
+5. 选中某段文字内容后，无法拖动，只能复制粘贴
  
 
  
@@ -204,10 +212,10 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbNjIzMjg3OTMxLDE4ODYwOTg1OTksMTM1OTk1Mzc2Miwx
-NTYxNjMzMDYyLDEyMjc4MDY3OCwtMTkyNzU1NDk1OSwtODk3NT
-gzNTk5LDE4NTE4MDgxMzAsLTEyOTIyNzM3MDksOTczMDY0NTEs
-LTEzNDczNDk0MywxOTgzMTA5MTQsNjY3Njk1NDY1LDE3MDQ3Mj
-AyNjUsMTQyOTIwMDA1MSwtMTEwMzA0MDQ2MSwxOTMzOTE0NTE0
-LDE3OTM3NTcyNTcsMTMxNTE2ODQxMiwxMjEyMjk0MDhdfQ==
+J5IjpbMTgzNzM3MTMwMSwxODg2MDk4NTk5LDEzNTk5NTM3NjIs
+MTU2MTYzMzA2MiwxMjI3ODA2NzgsLTE5Mjc1NTQ5NTksLTg5Nz
+U4MzU5OSwxODUxODA4MTMwLC0xMjkyMjczNzA5LDk3MzA2NDUx
+LC0xMzQ3MzQ5NDMsMTk4MzEwOTE0LDY2NzY5NTQ2NSwxNzA0Nz
+IwMjY1LDE0MjkyMDAwNTEsLTExMDMwNDA0NjEsMTkzMzkxNDUx
+NCwxNzkzNzU3MjU3LDEzMTUxNjg0MTIsMTIxMjI5NDA4XX0=
 -->
