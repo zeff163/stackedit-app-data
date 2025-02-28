@@ -28,16 +28,16 @@
 > 
 
 ## 列表  
-使用 + ，- ，* 生成标签 （要带空格）
+使用 + ，- ，* 生成标签 （要带空格）怎么更改标签的间距？
 * 标签1  
 + 标签2  
 - 标签3  
 
-1. 都
-
-
+1. 标签1
+2. 标签2
 
 *** 
+ 
 ### 列表多层嵌套  
 + 一级1
 + 一级2  
@@ -64,7 +64,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTIwMjAwMSwtMTE3MjExNjIwMywxNT
+eyJoaXN0b3J5IjpbLTgxOTQ2MTExMywtMTE3MjExNjIwMywxNT
 YxODc5MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMwLC02NTQ1NDk0
 OTcsMjA5MDI3NjMzNyw0NDA5MDU2MTldfQ==
 -->
