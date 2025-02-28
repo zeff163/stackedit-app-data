@@ -77,6 +77,9 @@
 ```
 <u>文本</u>  <mark>文本</mark> <font color = red>文本</font>
 
+## 盒子  
+$\frac{q}{q}$
+
 ## 问题
 1. 怎么调整空格的距离大小？ $\qquad$
  
@@ -84,7 +87,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTgzNzk1OSwxNzkzNzU3MjU3LDEzMT
+eyJoaXN0b3J5IjpbMTc5NzA5NDMzOSwxNzkzNzU3MjU3LDEzMT
 UxNjg0MTIsMTIxMjI5NDA4LC0xMTcyMTE2MjAzLDE1NjE4Nzky
 NSwxMDc3NzEzMzk5LDEzOTY1NDU2MzAsLTY1NDU0OTQ5NywyMD
 kwMjc2MzM3LDQ0MDkwNTYxOV19
