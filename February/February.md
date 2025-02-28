@@ -63,7 +63,13 @@
 |path|path|
 
 ## 灰色底框  
-~
+`代码环境`
+``` 
+
+多行代码环境
+
+```
+
 
 ## 问题
 1. 怎么调整空格的距离大小？ $\qquad$
@@ -72,7 +78,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ4NTMwMjYsMTIxMjI5NDA4LC0xMT
-cyMTE2MjAzLDE1NjE4NzkyNSwxMDc3NzEzMzk5LDEzOTY1NDU2
-MzAsLTY1NDU0OTQ5NywyMDkwMjc2MzM3LDQ0MDkwNTYxOV19
+eyJoaXN0b3J5IjpbMjg4MDcxMjg2LDEyMTIyOTQwOCwtMTE3Mj
+ExNjIwMywxNTYxODc5MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMw
+LC02NTQ1NDk0OTcsMjA5MDI3NjMzNyw0NDA5MDU2MTldfQ==
 -->
