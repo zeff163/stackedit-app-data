@@ -87,8 +87,8 @@ $\boxed{文本}\colorbox{red}{文本}$
 <font face ="楷体" size = "15"> 例子 </font>
 <font size="10" color = violet>例子 </font>
 ```
-<font face ="楷体" size = "15"> 例子 </font>
-<font size="10" color = violet>例子</font>
+``<font face ="楷体" size = "15"> 例子 </font>``
+<font size="3" color = violet>例子</font><font size="6" color = violet>例子</font> <font size="7" color = violet>例子</font><font size="8" color = violet>例子</font>
 
 ## 对齐与换行
 ```
@@ -111,8 +111,8 @@ $\boxed{文本}\colorbox{red}{文本}$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTYyMTc1MywxOTMzOTE0NTE0LDE3OT
-M3NTcyNTcsMTMxNTE2ODQxMiwxMjEyMjk0MDgsLTExNzIxMTYy
-MDMsMTU2MTg3OTI1LDEwNzc3MTMzOTksMTM5NjU0NTYzMCwtNj
-U0NTQ5NDk3LDIwOTAyNzYzMzcsNDQwOTA1NjE5XX0=
+eyJoaXN0b3J5IjpbLTE0MzE5MjQyNjMsMTkzMzkxNDUxNCwxNz
+kzNzU3MjU3LDEzMTUxNjg0MTIsMTIxMjI5NDA4LC0xMTcyMTE2
+MjAzLDE1NjE4NzkyNSwxMDc3NzEzMzk5LDEzOTY1NDU2MzAsLT
+Y1NDU0OTQ5NywyMDkwMjc2MzM3LDQ0MDkwNTYxOV19
 -->
