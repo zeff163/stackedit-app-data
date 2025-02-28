@@ -63,7 +63,7 @@
 |path|path|
 
 ## 灰色底框  
-`代码环境`
+`代码环境`  （类似verb）
 ``` 
 
 多行代码环境
@@ -71,7 +71,8 @@
 ```
 ## 文本强调  
 ``` 
->u
+<u>文本</u>				添加下划线 
+<mark>文本<>
 ```
 
 ## 问题
@@ -81,7 +82,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTcwODAxNSwxMjEyMjk0MDgsLTExNz
-IxMTYyMDMsMTU2MTg3OTI1LDEwNzc3MTMzOTksMTM5NjU0NTYz
-MCwtNjU0NTQ5NDk3LDIwOTAyNzYzMzcsNDQwOTA1NjE5XX0=
+eyJoaXN0b3J5IjpbLTE3MTU0MTQ2ODQsMTIxMjI5NDA4LC0xMT
+cyMTE2MjAzLDE1NjE4NzkyNSwxMDc3NzEzMzk5LDEzOTY1NDU2
+MzAsLTY1NDU0OTQ5NywyMDkwMjc2MzM3LDQ0MDkwNTYxOV19
 -->
