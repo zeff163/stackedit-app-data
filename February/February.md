@@ -196,11 +196,22 @@ $\boxed{文本}\colorbox{red}{文本}$
 ### 代码问题
 - 比较下面两段代码的差异
 ```
-
+<font color =red>第一行
+第二行</font>
+```
+```
+<font color =red>
+第一行
+第二行</font>
 ```
 <font color =red>第一行
 第二行</font>
 
+<font color =red>
+第一行  
+第二行</font>
+
+- 
 ### 其他问题
 1. 怎么调整空格的距离大小？  $\qquad$ 
 2. latex数学环境``\)
@@ -223,10 +234,10 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbMTEwNjU2OTY4NCwxODg2MDk4NTk5LDEzNTk5NTM3NjIs
-MTU2MTYzMzA2MiwxMjI3ODA2NzgsLTE5Mjc1NTQ5NTksLTg5Nz
-U4MzU5OSwxODUxODA4MTMwLC0xMjkyMjczNzA5LDk3MzA2NDUx
-LC0xMzQ3MzQ5NDMsMTk4MzEwOTE0LDY2NzY5NTQ2NSwxNzA0Nz
-IwMjY1LDE0MjkyMDAwNTEsLTExMDMwNDA0NjEsMTkzMzkxNDUx
-NCwxNzkzNzU3MjU3LDEzMTUxNjg0MTIsMTIxMjI5NDA4XX0=
+J5IjpbNzY5MjkyNzc3LDE4ODYwOTg1OTksMTM1OTk1Mzc2Miwx
+NTYxNjMzMDYyLDEyMjc4MDY3OCwtMTkyNzU1NDk1OSwtODk3NT
+gzNTk5LDE4NTE4MDgxMzAsLTEyOTIyNzM3MDksOTczMDY0NTEs
+LTEzNDczNDk0MywxOTgzMTA5MTQsNjY3Njk1NDY1LDE3MDQ3Mj
+AyNjUsMTQyOTIwMDA1MSwtMTEwMzA0MDQ2MSwxOTMzOTE0NTE0
+LDE3OTM3NTcyNTcsMTMxNTE2ODQxMiwxMjEyMjk0MDhdfQ==
 -->
