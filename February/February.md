@@ -81,6 +81,11 @@
 下面的所有语法都是在数学环境中的（注意不要多加空格）：
 ### 盒子 
 $\boxed{文本}\colorbox{red}{文本}$
+$$
+\begin{tabular}[c]
+ghj 
+\end{tabular}
+$$
 
 ## 问题
 1. 怎么调整空格的距离大小？ $\qquad$
@@ -89,8 +94,8 @@ $\boxed{文本}\colorbox{red}{文本}$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTg2NTYxMzIsMTc5Mzc1NzI1NywxMz
-E1MTY4NDEyLDEyMTIyOTQwOCwtMTE3MjExNjIwMywxNTYxODc5
-MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMwLC02NTQ1NDk0OTcsMj
-A5MDI3NjMzNyw0NDA5MDU2MTldfQ==
+eyJoaXN0b3J5IjpbMTkzMzkxNDUxNCwxNzkzNzU3MjU3LDEzMT
+UxNjg0MTIsMTIxMjI5NDA4LC0xMTcyMTE2MjAzLDE1NjE4Nzky
+NSwxMDc3NzEzMzk5LDEzOTY1NDU2MzAsLTY1NDU0OTQ5NywyMD
+kwMjc2MzM3LDQ0MDkwNTYxOV19
 -->
