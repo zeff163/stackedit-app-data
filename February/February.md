@@ -76,7 +76,7 @@
 这是一个脚注[^1]
 [^1]: footnote1
 
-<font>
+<font color =red>Markdown 中脚注的位置不会影响该脚注的呈现位置。 在引用脚注后立即写脚注，脚注仍将呈现在 Markdown 的底部。 Wiki 不支持脚注。</font>
 
 ## 代办事项列表  
 ```
@@ -193,7 +193,7 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTM5OTk1MzI1MSwxNTYxNjMzMDYyLDEyMjc4MDY3OCwt
+J5IjpbMTM1OTk1Mzc2MiwxNTYxNjMzMDYyLDEyMjc4MDY3OCwt
 MTkyNzU1NDk1OSwtODk3NTgzNTk5LDE4NTE4MDgxMzAsLTEyOT
 IyNzM3MDksOTczMDY0NTEsLTEzNDczNDk0MywxOTgzMTA5MTQs
 NjY3Njk1NDY1LDE3MDQ3MjAyNjUsMTQyOTIwMDA1MSwtMTEwMz
