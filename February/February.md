@@ -84,9 +84,11 @@ $\boxed{文本}\colorbox{red}{文本}$
 
 ## 字体样式、大小、颜色 
 ```
-<font face ="楷体" c>
+<font face ="楷体" size = "15"> 例子 </font>
 <font size="10" color = violet>例子 </font>
 ```
+<font face ="楷体" size = "15"> 例子 </font>
+<font size="10" color = violet>例子</font>
 
 ## 对齐与换行
 ```
@@ -109,7 +111,7 @@ $\boxed{文本}\colorbox{red}{文本}$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzA1MTUyMSwxOTMzOTE0NTE0LDE3OT
+eyJoaXN0b3J5IjpbLTM3MTYyMTc1MywxOTMzOTE0NTE0LDE3OT
 M3NTcyNTcsMTMxNTE2ODQxMiwxMjEyMjk0MDgsLTExNzIxMTYy
 MDMsMTU2MTg3OTI1LDEwNzc3MTMzOTksMTM5NjU0NTYzMCwtNj
 U0NTQ5NDk3LDIwOTAyNzYzMzcsNDQwOTA1NjE5XX0=
