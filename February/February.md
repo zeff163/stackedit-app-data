@@ -82,8 +82,12 @@
 ### 盒子 
 $\boxed{文本}\colorbox{red}{文本}$
 
+## 字体样式、大小、颜色 
+``
+``
+
 ## 换行  
-`<br/>`为强制换行符 <br/> ghjg
+`<br/>`为强制换行符 ，例如：<br/>换行
 
 
 ## 问题
@@ -93,7 +97,7 @@ $\boxed{文本}\colorbox{red}{文本}$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTUwODk1NiwxOTMzOTE0NTE0LDE3OT
+eyJoaXN0b3J5IjpbMTk3MzkxMjcwNywxOTMzOTE0NTE0LDE3OT
 M3NTcyNTcsMTMxNTE2ODQxMiwxMjEyMjk0MDgsLTExNzIxMTYy
 MDMsMTU2MTg3OTI1LDEwNzc3MTMzOTksMTM5NjU0NTYzMCwtNj
 U0NTQ5NDk3LDIwOTAyNzYzMzcsNDQwOTA1NjE5XX0=
