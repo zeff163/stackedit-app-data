@@ -52,7 +52,7 @@
 * 带标题的超链接：[ 标题 ]（http: //+ 具体网址）例如 [StackEdit](https://stackedit.cn/app#)
 * 文档之间的链接（一般建议是Markdown文件）：
 	+ **绝对路径**：[ 标题 ]（文件夹1/.../文件）例如 [Readme](/README.md) 
-	+ **相对路径**：[ 标题 ]（.././文件）例如 [Other](./Others/Other)
+	+ **相对路径**：[ 标题 ]（.././文件）例如 [Other](./Others/Other.md)
 	<font color = red>注意1：描写该链接时，整个部分必须在一行上，换行的话会不起作用，可能是添加了空格的原因
 	注意2：括号是英文括号，不要写成中文括号</font>
 * 
@@ -132,10 +132,10 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbMTg1MTgwODEzMCwtMTI5MjI3MzcwOSw5NzMwNjQ1MSwt
-MTM0NzM0OTQzLDE5ODMxMDkxNCw2Njc2OTU0NjUsMTcwNDcyMD
-I2NSwxNDI5MjAwMDUxLC0xMTAzMDQwNDYxLDE5MzM5MTQ1MTQs
-MTc5Mzc1NzI1NywxMzE1MTY4NDEyLDEyMTIyOTQwOCwtMTE3Mj
-ExNjIwMywxNTYxODc5MjUsMTA3NzcxMzM5OSwxMzk2NTQ1NjMw
-LC02NTQ1NDk0OTcsMjA5MDI3NjMzNyw0NDA5MDU2MTldfQ==
+J5IjpbLTg5NzU4MzU5OSwxODUxODA4MTMwLC0xMjkyMjczNzA5
+LDk3MzA2NDUxLC0xMzQ3MzQ5NDMsMTk4MzEwOTE0LDY2NzY5NT
+Q2NSwxNzA0NzIwMjY1LDE0MjkyMDAwNTEsLTExMDMwNDA0NjEs
+MTkzMzkxNDUxNCwxNzkzNzU3MjU3LDEzMTUxNjg0MTIsMTIxMj
+I5NDA4LC0xMTcyMTE2MjAzLDE1NjE4NzkyNSwxMDc3NzEzMzk5
+LDEzOTY1NDU2MzAsLTY1NDU0OTQ5NywyMDkwMjc2MzM3XX0=
 -->
