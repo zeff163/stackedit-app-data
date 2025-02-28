@@ -46,7 +46,7 @@
       + 四级1  
    * 二级2 
 + 一级3  （很麻烦，每层标签必须对齐，增加空行数可以调整标签的行距）
-**各层缩进取决于上一层标签字符数，至少多一个空格
+<font color =red>各层缩进取决于上一层标签字符数，至少多一个空格</font>
 
 ## 超链接 
 * 普通超链接：< http: //+具体网址 >  例如：<https://stackedit.cn/app#>  
@@ -70,6 +70,10 @@
 
 
 ## 代办事项列表  
+```
+- [x] 第一行
+- [ ] 第二行
+```
  - [ ] 第一行  
  - [ ] 第二行
  - [x] 第三行 
@@ -177,10 +181,10 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbMjAwMTM3MTI4OSwxNTYxNjMzMDYyLDEyMjc4MDY3OCwt
-MTkyNzU1NDk1OSwtODk3NTgzNTk5LDE4NTE4MDgxMzAsLTEyOT
-IyNzM3MDksOTczMDY0NTEsLTEzNDczNDk0MywxOTgzMTA5MTQs
-NjY3Njk1NDY1LDE3MDQ3MjAyNjUsMTQyOTIwMDA1MSwtMTEwMz
-A0MDQ2MSwxOTMzOTE0NTE0LDE3OTM3NTcyNTcsMTMxNTE2ODQx
-MiwxMjEyMjk0MDgsLTExNzIxMTYyMDMsMTU2MTg3OTI1XX0=
+J5IjpbLTEzMzU5Njg1NDEsMTU2MTYzMzA2MiwxMjI3ODA2Nzgs
+LTE5Mjc1NTQ5NTksLTg5NzU4MzU5OSwxODUxODA4MTMwLC0xMj
+kyMjczNzA5LDk3MzA2NDUxLC0xMzQ3MzQ5NDMsMTk4MzEwOTE0
+LDY2NzY5NTQ2NSwxNzA0NzIwMjY1LDE0MjkyMDAwNTEsLTExMD
+MwNDA0NjEsMTkzMzkxNDUxNCwxNzkzNzU3MjU3LDEzMTUxNjg0
+MTIsMTIxMjI5NDA4LC0xMTcyMTE2MjAzLDE1NjE4NzkyNV19
 -->
