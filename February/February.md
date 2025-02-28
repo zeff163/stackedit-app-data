@@ -54,7 +54,8 @@
 	+ **绝对路径**：[ 标题 ]（文件夹1/.../文件）例如 [Readme](/README.md) 
 	+ **相对路径**：[ 标题 ]（.././文件）使用`/ ./ ../`来显示路径 
 	<font color = red>注意1：描写该链接时，整个部分必须在一行上，换行的话会不起作用，可能是添加了空格的原因
-	注意2：括号是英文括号，不要写成中文括号</font>
+	注意2：括号是英文括号，不要写成中文括号
+	注意3：相对链接更便于用户克隆仓库。 绝对链接可能无法用于仓库的克隆，**建议使用相对链接引用仓库中的其他文件**。<font>
 * 
 
 ## 代办事项列表  
@@ -132,7 +133,7 @@ g0MTl9LCJDczlhZURpN0dDc2N4MkxXIjp7ImRpc2N1c3Npb25J
 ZCI6IktoR256cTVaa01McGlJbGsiLCJzdWIiOiJnaDoyMDEwNz
 k5NDgiLCJ0ZXh0Ijoi6KaB5Lil5qC85rOo5oSP57yp6L+b57qn
 5YirIiwiY3JlYXRlZCI6MTc0MDc0MzU4MzkxM319LCJoaXN0b3
-J5IjpbLTY0NjY0NTE1OSwtODk3NTgzNTk5LDE4NTE4MDgxMzAs
+J5IjpbLTg1OTU2MDU5NiwtODk3NTgzNTk5LDE4NTE4MDgxMzAs
 LTEyOTIyNzM3MDksOTczMDY0NTEsLTEzNDczNDk0MywxOTgzMT
 A5MTQsNjY3Njk1NDY1LDE3MDQ3MjAyNjUsMTQyOTIwMDA1MSwt
 MTEwMzA0MDQ2MSwxOTMzOTE0NTE0LDE3OTM3NTcyNTcsMTMxNT
