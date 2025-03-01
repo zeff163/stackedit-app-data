@@ -5,8 +5,10 @@
 	 *  专业知识：数学、计算机、英语、文学等学科知识
 	 *  生活常识：健康、穿搭外貌、其他<br/>
 - [ ] **心得**
-主要是学习心得
+主要是个人的总结归纳，包括：学习心得，生活技巧等。
 - [ ] **新名词**
+包括：
+每日接触到的一些新词
 - [ ] **各类网站**
 - [ ] **知识学习**
 - [ ] **知识学习**
@@ -32,6 +34,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3NzMyNTQwLC01NDg5Njk3MTgsLTE3OT
-Y4MTk3MTJdfQ==
+eyJoaXN0b3J5IjpbMTk4ODc4MTI1OCwtNTQ4OTY5NzE4LC0xNz
+k2ODE5NzEyXX0=
 -->
