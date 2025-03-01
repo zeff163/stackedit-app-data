@@ -1,5 +1,8 @@
 ## 记录每日工作及生活的匣子
-### 寻找一个具有以下特点的存储工具：
+### <font color = red>每日记录的要点：
+
+
+### <font color = red>寻找一个具有以下特点的存储工具：
 * **具有较好的文本编辑功能**  
 方便轻巧，功能全面，易于编写，最好能支持多种语言，例如：`Latex`、`C++`、`Markdown`等。
 * **可以多设备使用**
@@ -16,6 +19,8 @@
 最好能实时备份。
 * **可协同工作**
 支持多人同时合作
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTY3MDc4MzNdfQ==
+eyJoaXN0b3J5IjpbLTUxMTMyMjIyMV19
 -->
