@@ -29,10 +29,12 @@
  - [ ] **备注**
 一些备注补充内容
 
-<font size = 5 face=楷体 color=blue>每周进行一次小总结，主要是总结：代办事项、知识学习及心得版块，并注意知识内容的分类和整理。
-<font size = 5 face=楷体 color=blue>每月进行一次总结，归纳整月的学习情况以及指定
+<font size = 5 face=楷体 color=blue>**每周进行一次小总结，主要是总结：代办事项、知识学习及心得版块，并注意知识内容的分类和整理。**
 
+<font size = 5 face=楷体 color=blue>**每月进行一次总结，归纳整月的学习情况以及制定下个月的计划。**
 
+---
+---
 ### <font color = red>寻找一个具有以下特点的存储工具：
 * **具有较好的文本编辑功能**  
 方便轻巧，功能全面，易于编写，最好能支持多种语言，例如：`Latex`、`C++`、`Markdown`等。
@@ -53,6 +55,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NjA1OTIzLC01NDg5Njk3MTgsLTE3OT
-Y4MTk3MTJdfQ==
+eyJoaXN0b3J5IjpbMjExNDc4Njg2OCwtNTQ4OTY5NzE4LC0xNz
+k2ODE5NzEyXX0=
 -->
