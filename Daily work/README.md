@@ -35,14 +35,7 @@
 > <font size = 5 face=楷体 color=blue>**每月进行一次总结，归纳整月的学习情况以及制定下个月的计划。**
 
 ---
---- *  生活常识：健康、穿搭wai
-- [ ] **心得**
-- [ ] **知识学习**
-- [ ] **知识学习**
-- [ ] **知识学习**
-- [ ] **知识学习**
-- [ ] **知识学习**
-学学知识
+---
  
 ### <font color = red>寻找一个具有以下特点的存储工具：
 * **具有较好的文本编辑功能**  
@@ -65,6 +58,7 @@
 ### <font color = red> 网站的记录要素
 关键词 + 主要内容 + 新知识 + 文献作者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDMwNzI4NjgsMTQwMDEwODgwLDg2MT
-EzMjY0NSwtNTQ4OTY5NzE4LC0xNzk2ODE5NzEyXX0=
+eyJoaXN0b3J5IjpbMTE3OTE5NDIyMiwtMTgwMzA3Mjg2OCwxND
+AwMTA4ODAsODYxMTMyNjQ1LC01NDg5Njk3MTgsLTE3OTY4MTk3
+MTJdfQ==
 -->
