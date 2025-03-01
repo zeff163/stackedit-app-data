@@ -29,7 +29,7 @@
  - [ ] **备注**
 一些备注补充内容
 
-<font size = 5 face=楷体 color=green>每周
+<font size = 5 face=楷体 color=blue>每周进行一次小总结，主要是总结：代办事项、知识学习、
 
 ### <font color = red>寻找一个具有以下特点的存储工具：
 * **具有较好的文本编辑功能**  
@@ -51,6 +51,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwODA1NTkzLC01NDg5Njk3MTgsLTE3OT
-Y4MTk3MTJdfQ==
+eyJoaXN0b3J5IjpbNzUyNzM2ODQsLTU0ODk2OTcxOCwtMTc5Nj
+gxOTcxMl19
 -->
