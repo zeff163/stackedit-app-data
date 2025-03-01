@@ -2,7 +2,7 @@
 
 ## <font color = green>知识学习
 ### <font color = purple>专业知识
-- <a id = "01-01">  [<font color = red>跳转](#01-02)
+- <a id = "01-1">  [<font color = red>跳转](#01-2)
 ### <font color = purple>生活常识
 
 ### <font color = purple>求职
@@ -50,9 +50,9 @@
   1. <a id ="01-2">[<font color = red>跳回](#01-1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODc1NzA5NSwxMjM4MTk2ODMxLC0xNz
-U3MDg4Mjk5LC0xMDYzNDQ1MzgzLDIzMzIyMjU4MywtMTA2MzQ0
-NTM4MywtMTc3NTE4NDczNCwtMjA1MjEyNzM1LC0xMzU2NTA5OD
-MyLDEzMDE4Mjg3MTAsMjEzNjc1NTE3MiwxODE5OTkzNjg5LDE4
-MzUxNDQ5NTBdfQ==
+eyJoaXN0b3J5IjpbMTIzODE5NjgzMSwtNjE4NzU3MDk1LDEyMz
+gxOTY4MzEsLTE3NTcwODgyOTksLTEwNjM0NDUzODMsMjMzMjIy
+NTgzLC0xMDYzNDQ1MzgzLC0xNzc1MTg0NzM0LC0yMDUyMTI3Mz
+UsLTEzNTY1MDk4MzIsMTMwMTgyODcxMCwyMTM2NzU1MTcyLDE4
+MTk5OTM2ODksMTgzNTE0NDk1MF19
 -->
