@@ -3,8 +3,8 @@
 - [ ] **知识学习**
 包含以下几个部分：
   *  专业知识：数学、计算机、英语、文学等学科知识
-  *  生活常识：健康、穿搭外貌、
-- [ ] **心得**
+  *  生活常识：健康、穿搭外貌、其他
+ - [ ] **心得**
 - [ ] **新名词**
 - [ ] **各类网站**
 - [ ] **知识学习**
@@ -31,5 +31,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODk2OTcxOCwtMTc5NjgxOTcxMl19
+eyJoaXN0b3J5IjpbLTExOTc2NDk4MjIsLTU0ODk2OTcxOCwtMT
+c5NjgxOTcxMl19
 -->
