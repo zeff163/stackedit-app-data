@@ -30,9 +30,9 @@
  - [ ] **备注**
 一些备注补充内容
 
-<font size = 5 face=楷体 color=blue>**每周进行一次小总结，主要是总结：代办事项、知识学习及心得版块，并注意知识内容的分类和整理。**
+> <font size = 5 face=楷体 color=blue>**每周进行一次小总结，主要是总结：代办事项、知识学习及心得版块，并注意知识内容的分类和整理。**
 
-<font size = 5 face=楷体 color=blue>**每月进行一次总结，归纳整月的学习情况以及制定下个月的计划。**
+> <font size = 5 face=楷体 color=blue>**每月进行一次总结，归纳整月的学习情况以及制定下个月的计划。**
 
 ---
 ---
@@ -56,6 +56,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMTMyNjQ1LC01NDg5Njk3MTgsLTE3OT
-Y4MTk3MTJdfQ==
+eyJoaXN0b3J5IjpbLTQyNjM4OTIxMSw4NjExMzI2NDUsLTU0OD
+k2OTcxOCwtMTc5NjgxOTcxMl19
 -->
