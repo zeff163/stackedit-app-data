@@ -2,13 +2,13 @@
 ### <font color = red>每日记录的要点：
  - [ ] **知识学习**
 包含以下几个部分：
--  专业知识：数学、计算机、英语、文学等学科知识
-*  生活常识：健康、穿搭外貌、其他
+ -  <mark>专业知识</mark>：数学、计算机、英语、文学等学科知识
+ -   生活常识：健康、穿搭外貌、其他
  - [ ] **心得**
 主要是个人的总结归纳，包括：学习心得，生活技巧等。
  - [ ] **新名词**
 包括：
-  - 每日接触到的一些新词
+ - 新词：每日接触到的一些新词
  - 
  - [ ] **各类网站**
  - [ ] **知识学习**
@@ -35,6 +35,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjI3NTA3NiwtNTQ4OTY5NzE4LC0xNz
-k2ODE5NzEyXX0=
+eyJoaXN0b3J5IjpbOTg5MTI3ODEzLC01NDg5Njk3MTgsLTE3OT
+Y4MTk3MTJdfQ==
 -->
