@@ -9,6 +9,7 @@
 主要是个人的总结归纳，包括：
 - <mark>学习心得：对某个知识点的个人理解或者发现的问题
 - <mark>生活技巧：生活中遇到一些问题的经验总结
+- <mark>Good Idea：
  - [ ] **新名词**
 包括：
 - <mark>英语单词：每日学到的新英语词汇
@@ -18,9 +19,13 @@
  - [ ] **资源文件**
  各类文件资源，例如：pdf，图片，apk等
  - [ ] **新闻**
+ 每日新闻消息
  - [ ] **新知**
+ 碎片化的小知识
  - [ ] **待办事项**
+ 今日未完成事项
  - [ ] **备注**
+一些bei
 
 ### <font color = red>寻找一个具有以下特点的存储工具：
 * **具有较好的文本编辑功能**  
@@ -42,6 +47,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTI1MDUwNywtNTQ4OTY5NzE4LC0xNz
-k2ODE5NzEyXX0=
+eyJoaXN0b3J5IjpbNjYyNTk5NTk4LC01NDg5Njk3MTgsLTE3OT
+Y4MTk3MTJdfQ==
 -->
