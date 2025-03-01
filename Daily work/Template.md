@@ -21,13 +21,13 @@
 
 ## <font color = green>各类网站
 
-## <font color = greenpurple>资源文件
+## <font color = green>资源文件
 
-## <font color = greenpurple>新闻
+## <font color = green>新闻
 
 ## <font color = green>新知
 
-## <font color = greenpurple>待办事项
+## <font color = green>待办事项
 ### <font color = >事项
 
 ### <font color = >疑问
@@ -39,7 +39,7 @@
 ## <font color = greenpurple>备注 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzU3Njk5MCwtMTc3NTE4NDczNCwtMj
+eyJoaXN0b3J5IjpbMTk5MTAwMjI2NiwtMTc3NTE4NDczNCwtMj
 A1MjEyNzM1LC0xMzU2NTA5ODMyLDEzMDE4Mjg3MTAsMjEzNjc1
 NTE3MiwxODE5OTkzNjg5LDE4MzUxNDQ5NTBdfQ==
 -->
