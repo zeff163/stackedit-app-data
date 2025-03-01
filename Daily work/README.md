@@ -13,7 +13,7 @@
  - [ ] **新名词**
 包括：
 - <mark>英语单词</mark>：每日学到的新英语词汇
- - <mark>新词：每日接触到的一些新词
+ - <mark>新词</mark>：每日接触到的一些新词
  - [ ] **各类网站**
  搜集到的一些网站集合
  - [ ] **资源文件**
@@ -24,10 +24,12 @@
  碎片化的小知识
  - [ ] **待办事项**
  今日未完成事项，包括：
- - 事项：未作的或者未读的内容
- - 疑问：学习中产生的未解决问题
+ - <mark>事项</mark>：未作的或者未读的内容
+ - <mark>疑问</mark>：学习中产生的未解决问题
  - [ ] **备注**
 一些备注补充内容
+
+<font >
 
 ### <font color = red>寻找一个具有以下特点的存储工具：
 * **具有较好的文本编辑功能**  
@@ -49,6 +51,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzU5NzExMSwtNTQ4OTY5NzE4LC0xNz
+eyJoaXN0b3J5IjpbLTc0NTE2MDcxMCwtNTQ4OTY5NzE4LC0xNz
 k2ODE5NzEyXX0=
 -->
