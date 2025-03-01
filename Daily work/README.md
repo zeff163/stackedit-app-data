@@ -4,7 +4,7 @@
 包含以下几个部分：
  -  <mark>专业知识</mark>：数学、计算机、英语、文学等学科知识
  -   <mark>生活常识：健康、穿搭外貌、其他
- - <mark>求职：岗位消息及注意事项
+ - <mark>求职：岗位消息及应聘技巧
  - [ ] **心得**
 主要是个人的总结归纳，包括：
 - <mark>学习心得：对某个知识点的个人理解或者发现的问题
@@ -16,6 +16,7 @@
  - [ ] **各类网站**
  搜集到的一些网站集合
  - [ ] **资源文件**
+ 各类文件资源，例如：pdf，图片，apk等
  - [ ] **新闻**
  - [ ] **新知**
  - [ ] **待办事项**
@@ -41,6 +42,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDU3ODExMiwtNTQ4OTY5NzE4LC0xNz
+eyJoaXN0b3J5IjpbMTIxOTI1MDUwNywtNTQ4OTY5NzE4LC0xNz
 k2ODE5NzEyXX0=
 -->
