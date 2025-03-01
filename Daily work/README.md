@@ -24,8 +24,9 @@
  碎片化的小知识
  - [ ] **待办事项**
  今日未完成事项，包括：
- - <mark>事项</mark>：未作的或者未读的内容
+ - <mark>事项</mark>：未做的或者未读的内容
  - <mark>疑问</mark>：学习中产生的未解决问题
+ - <mark>明日计划</mark>：
  - [ ] **备注**
 一些备注补充内容
 
@@ -55,6 +56,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDc4Njg2OCwtNTQ4OTY5NzE4LC0xNz
+eyJoaXN0b3J5IjpbLTY0NjkxMzgzMCwtNTQ4OTY5NzE4LC0xNz
 k2ODE5NzEyXX0=
 -->
