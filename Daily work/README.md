@@ -13,9 +13,12 @@
 - <mark>英语单词：每日学到的新英语词汇
  - <mark>新词：每日接触到的一些新词
  - [ ] **各类网站**
+ 一些wang'zhan
  - [ ] **资源文件**
- - [ ] **知识学习**
- - [ ] **知识学习**
+ - [ ] **新闻**
+ - [ ] **新知**
+ - [ ] **待办事项**
+ - [ ] **备注**
 
 ### <font color = red>寻找一个具有以下特点的存储工具：
 * **具有较好的文本编辑功能**  
@@ -37,6 +40,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDEyNDM0NSwtNTQ4OTY5NzE4LC0xNz
+eyJoaXN0b3J5IjpbLTUyMDA1ODY0NSwtNTQ4OTY5NzE4LC0xNz
 k2ODE5NzEyXX0=
 -->
