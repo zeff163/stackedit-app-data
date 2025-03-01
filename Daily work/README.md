@@ -1,8 +1,7 @@
 ## 记录每日工作及生活的匣子
 ### <font color = red>每日记录的要点：
-- [ ] **知识学习**  
-包括以下几个部分：
-
+- [ ] **知识学习**
+*  专业知识*  生活常识
 - [ ] **心得**
 - [ ] **知识学习**
 - [ ] **知识学习**
@@ -30,5 +29,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg5NTQ4NjNdfQ==
+eyJoaXN0b3J5IjpbLTE2NTc0MDA2NDBdfQ==
 -->
