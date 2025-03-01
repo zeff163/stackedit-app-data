@@ -1,6 +1,11 @@
 ## 记录每日工作及生活的匣子
 ### <font color = red>每日记录的要点：
-
+- [ ] **知识学习**
+- [ ] **知识学习**
+- [ ] **知识学习**
+- [ ] **知识学习**
+- [ ] **知识学习**
+- [ ] **知识学习**
 
 ### <font color = red>寻找一个具有以下特点的存储工具：
 * **具有较好的文本编辑功能**  
@@ -22,5 +27,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTMyMjIyMV19
+eyJoaXN0b3J5IjpbLTE2NjAwMjYzNV19
 -->
