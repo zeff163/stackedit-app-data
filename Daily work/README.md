@@ -12,7 +12,7 @@
 - <mark>Good Idea</mark>：一些灵感
  - [ ] **新名词**
 包括：
-- <mark>英语单词：每日学到的新英语词汇
+- <mark>英语单词</mark>：每日学到的新英语词汇
  - <mark>新词：每日接触到的一些新词
  - [ ] **各类网站**
  搜集到的一些网站集合
@@ -23,7 +23,9 @@
  - [ ] **新知**
  碎片化的小知识
  - [ ] **待办事项**
- 今日未完成事项
+ 今日未完成事项，包括：
+ - 事项：未作的或者未读的内容
+ - 疑问：学习中产生的未解决问题
  - [ ] **备注**
 一些备注补充内容
 
@@ -47,6 +49,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4NzEwMDAwLC01NDg5Njk3MTgsLTE3OT
-Y4MTk3MTJdfQ==
+eyJoaXN0b3J5IjpbLTk2NzU5NzExMSwtNTQ4OTY5NzE4LC0xNz
+k2ODE5NzEyXX0=
 -->
