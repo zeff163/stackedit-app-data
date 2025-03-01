@@ -1,13 +1,22 @@
 ## <font color = green>日期 
-
 ## <font color = purple>知识学习
 ### 专业知识
 
-## <font color = purple>心得
+### 生活常识
 
+### 求职
+
+## <font color = purple>心得
+### 学习心得
+
+### 生活技巧
+
+### Good Idea
 
 ## <font color = purple>新名词
+### 英文单词
 
+### 
 ## <font color = purple>各类网站
 
 ## <font color = purple>资源文件
@@ -21,6 +30,6 @@
 ## <font color = purple>备注 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMjk2NDAxLDIxMzY3NTUxNzIsMTgxOT
-k5MzY4OSwxODM1MTQ0OTUwXX0=
+eyJoaXN0b3J5IjpbLTI2NjgyNDU4OSwyMTM2NzU1MTcyLDE4MT
+k5OTM2ODksMTgzNTE0NDk1MF19
 -->
