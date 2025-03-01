@@ -6,14 +6,14 @@
  -   <mark>生活常识：健康、穿搭外貌、其他
  - [ ] **心得**
 主要是个人的总结归纳，包括：
-- <mark>学习心得：
-- <mark>生活技巧：
+- <mark>学习心得：对某个知识点的个人理解或者发现的问题
+- <mark>生活技巧：生活中遇到一些问题的经验总结
  - [ ] **新名词**
 包括：
-- <mark>英语单词：每日学到的xin
+- <mark>英语单词：每日学到的新英语词汇
  - <mark>新词：每日接触到的一些新词
  - [ ] **各类网站**
- - [ ] **知识学习**
+ - [ ] **资源文件**
  - [ ] **知识学习**
  - [ ] **知识学习**
 
@@ -37,6 +37,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxMDQ5MjU2LC01NDg5Njk3MTgsLTE3OT
-Y4MTk3MTJdfQ==
+eyJoaXN0b3J5IjpbMTIxMDEyNDM0NSwtNTQ4OTY5NzE4LC0xNz
+k2ODE5NzEyXX0=
 -->
