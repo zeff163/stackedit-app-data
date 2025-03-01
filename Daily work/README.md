@@ -3,13 +3,13 @@
  - [ ] **知识学习**
 包含以下几个部分：
  -  <mark>专业知识</mark>：数学、计算机、英语、文学等学科知识
- -   <mark>生活常识：健康、穿搭外貌、其他
- - <mark>求职：岗位消息及应聘技巧
+ -   <mark>生活常识</mark>：健康、穿搭外貌、其他
+ - <mark>求职</mark>：岗位消息及应聘技巧
  - [ ] **心得**
 主要是个人的总结归纳，包括：
-- <mark>学习心得：对某个知识点的个人理解或者发现的问题
-- <mark>生活技巧：生活中遇到一些问题的经验总结
-- <mark>Good Idea：
+- <mark>学习心得</mark>：对某个知识点的个人理解或者发现的问题
+- <mark>生活技巧</mark>：生活中遇到一些问题的经验总结
+- <mark>Good Idea</mark>：一些灵感
  - [ ] **新名词**
 包括：
 - <mark>英语单词：每日学到的新英语词汇
@@ -25,7 +25,7 @@
  - [ ] **待办事项**
  今日未完成事项
  - [ ] **备注**
-一些bei
+一些备注补充内容
 
 ### <font color = red>寻找一个具有以下特点的存储工具：
 * **具有较好的文本编辑功能**  
@@ -47,6 +47,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNTk5NTk4LC01NDg5Njk3MTgsLTE3OT
+eyJoaXN0b3J5IjpbOTc4NzEwMDAwLC01NDg5Njk3MTgsLTE3OT
 Y4MTk3MTJdfQ==
 -->
