@@ -2,7 +2,7 @@
 ### <font color = red>每日记录的要点：
  - [ ] **知识学习**
 包含以下几个部分：
- -  <mark>专业知识</mark>：数学、计算机、英语、文学等学科知识
+ -  <mark>专业知识</mark> *  专业知识：数学、计算机、英语、文学等学科知识
  -   <mark>生活常识</mark>：健康与锻炼、穿搭与外貌、其他
  - <mark>求职</mark>：岗位消息及应聘技巧
  - [ ] **心得**
@@ -35,7 +35,15 @@
 > <font size = 5 face=楷体 color=blue>**每月进行一次总结，归纳整月的学习情况以及制定下个月的计划。**
 
 ---
----
+--- *  生活常识：健康、穿搭wai
+- [ ] **心得**
+- [ ] **知识学习**
+- [ ] **知识学习**
+- [ ] **知识学习**
+- [ ] **知识学习**
+- [ ] **知识学习**
+学学知识
+ 
 ### <font color = red>寻找一个具有以下特点的存储工具：
 * **具有较好的文本编辑功能**  
 方便轻巧，功能全面，易于编写，最好能支持多种语言，例如：`Latex`、`C++`、`Markdown`等。
@@ -57,6 +65,6 @@
 ### <font color = red> 网站的记录要素
 关键词 + 主要内容 + 新知识 + 文献作者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDEwODgwLDg2MTEzMjY0NSwtNTQ4OT
-Y5NzE4LC0xNzk2ODE5NzEyXX0=
+eyJoaXN0b3J5IjpbLTE4MDMwNzI4NjgsMTQwMDEwODgwLDg2MT
+EzMjY0NSwtNTQ4OTY5NzE4LC0xNzk2ODE5NzEyXX0=
 -->
