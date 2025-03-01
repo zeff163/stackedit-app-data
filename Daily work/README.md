@@ -15,7 +15,7 @@
 - <mark>英语单词</mark>：每日学到的新英语词汇
  - <mark>新词</mark>：每日接触到的一些新词
  - [ ] **各类网站**
- 搜集到的一些网站集合
+ 搜集到的一些网站集合，例如：一些博主的主页
  - [ ] **资源文件**
  各类文件资源，例如：pdf，图片，apk等
  - [ ] **新闻**
@@ -54,8 +54,8 @@
 * **可协同工作**
 支持多人同时合作
 
-
+### <font color = red> 网站的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjM4OTIxMSw4NjExMzI2NDUsLTU0OD
-k2OTcxOCwtMTc5NjgxOTcxMl19
+eyJoaXN0b3J5IjpbLTEzMDAzMTY5NjMsODYxMTMyNjQ1LC01ND
+g5Njk3MTgsLTE3OTY4MTk3MTJdfQ==
 -->
