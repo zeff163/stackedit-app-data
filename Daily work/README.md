@@ -3,13 +3,15 @@
  - [ ] **知识学习**
 包含以下几个部分：
  -  <mark>专业知识</mark>：数学、计算机、英语、文学等学科知识
- -   生活常识：健康、穿搭外貌、其他
+ -   <mark>生活常识：健康、穿搭外貌、其他
  - [ ] **心得**
-主要是个人的总结归纳，包括：学习心得，生活技巧等。
+主要是个人的总结归纳，包括：
+- <mark>学习心得：
+- <mark>生活技巧：
  - [ ] **新名词**
 包括：
- - 新词：每日接触到的一些新词
- - 
+- <mark>英语单词：每日学到的xin
+ - <mark>新词：每日接触到的一些新词
  - [ ] **各类网站**
  - [ ] **知识学习**
  - [ ] **知识学习**
@@ -35,6 +37,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5MTI3ODEzLC01NDg5Njk3MTgsLTE3OT
+eyJoaXN0b3J5IjpbNzkxMDQ5MjU2LC01NDg5Njk3MTgsLTE3OT
 Y4MTk3MTJdfQ==
 -->
