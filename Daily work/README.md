@@ -3,7 +3,7 @@
  - [ ] **知识学习**
 包含以下几个部分：
  -  <mark>专业知识</mark>：数学、计算机、英语、文学等学科知识
- -   <mark>生活常识</mark>：健康、穿搭外貌、其他
+ -   <mark>生活常识</mark>：健康与锻炼、穿搭与外貌、其他
  - <mark>求职</mark>：岗位消息及应聘技巧
  - [ ] **心得**
 主要是个人的总结归纳，包括：
@@ -54,8 +54,9 @@
 * **可协同工作**
 支持多人同时合作
 
-### <font color = red> 网站的
+### <font color = red> 网站的记录要素
+关键词 + 主要内容 + 新知识 + 文献作者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDAzMTY5NjMsODYxMTMyNjQ1LC01ND
-g5Njk3MTgsLTE3OTY4MTk3MTJdfQ==
+eyJoaXN0b3J5IjpbMTQwMDEwODgwLDg2MTEzMjY0NSwtNTQ4OT
+Y5NzE4LC0xNzk2ODE5NzEyXX0=
 -->
