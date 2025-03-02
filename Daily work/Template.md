@@ -40,8 +40,8 @@
 ## <font color = green>待办事项
 ### <font color = purple>事项
 - [ ] ...
+### <font color = purple>已解决
 ### <font color = purple>疑问
-
 ### <font color = purple>明日计划
 
 
@@ -50,9 +50,10 @@
   1. <a id ="01-2">[<font color = red>跳回](#01-1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDEyNTExNTgsMTIzODE5NjgzMSwtNj
-E4NzU3MDk1LDEyMzgxOTY4MzEsLTE3NTcwODgyOTksLTEwNjM0
-NDUzODMsMjMzMjIyNTgzLC0xMDYzNDQ1MzgzLC0xNzc1MTg0Nz
-M0LC0yMDUyMTI3MzUsLTEzNTY1MDk4MzIsMTMwMTgyODcxMCwy
-MTM2NzU1MTcyLDE4MTk5OTM2ODksMTgzNTE0NDk1MF19
+eyJoaXN0b3J5IjpbLTEyNjEwMzk5ODAsLTE3MDEyNTExNTgsMT
+IzODE5NjgzMSwtNjE4NzU3MDk1LDEyMzgxOTY4MzEsLTE3NTcw
+ODgyOTksLTEwNjM0NDUzODMsMjMzMjIyNTgzLC0xMDYzNDQ1Mz
+gzLC0xNzc1MTg0NzM0LC0yMDUyMTI3MzUsLTEzNTY1MDk4MzIs
+MTMwMTgyODcxMCwyMTM2NzU1MTcyLDE4MTk5OTM2ODksMTgzNT
+E0NDk1MF19
 -->
