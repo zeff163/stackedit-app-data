@@ -12,7 +12,7 @@
 
 ## <font color = green>心得 </font>
 ### <font color = purple>学习心得 </font>
-
+- 
 ### <font color = purple>生活技巧 </font>
 
 ### <font color = purple>Good Idea </font>
@@ -35,13 +35,14 @@
 
 
 ## <font color = green>新知 </font>
-
+- 
 
 ## <font color = green>待办事项 </font>
 ### <font color = purple>事项 </font>
 - [ ] ...
 ### <font color = purple>已解决 </font>
 ### <font color = purple>疑问 </font>
+- [ ] ...
 ### <font color = purple>明日计划 </font>
 
 
@@ -50,10 +51,10 @@
   1. <a id ="01-2">[<font color = red>跳回</font>](#01-1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTM5Njg4NCwxNzEyOTI1NTMwLC0xNz
-AxMjUxMTU4LDEyMzgxOTY4MzEsLTYxODc1NzA5NSwxMjM4MTk2
-ODMxLC0xNzU3MDg4Mjk5LC0xMDYzNDQ1MzgzLDIzMzIyMjU4My
-wtMTA2MzQ0NTM4MywtMTc3NTE4NDczNCwtMjA1MjEyNzM1LC0x
-MzU2NTA5ODMyLDEzMDE4Mjg3MTAsMjEzNjc1NTE3MiwxODE5OT
-kzNjg5LDE4MzUxNDQ5NTBdfQ==
+eyJoaXN0b3J5IjpbNjI4MzA3Mjg3LC05MjUzOTY4ODQsMTcxMj
+kyNTUzMCwtMTcwMTI1MTE1OCwxMjM4MTk2ODMxLC02MTg3NTcw
+OTUsMTIzODE5NjgzMSwtMTc1NzA4ODI5OSwtMTA2MzQ0NTM4My
+wyMzMyMjI1ODMsLTEwNjM0NDUzODMsLTE3NzUxODQ3MzQsLTIw
+NTIxMjczNSwtMTM1NjUwOTgzMiwxMzAxODI4NzEwLDIxMzY3NT
+UxNzIsMTgxOTk5MzY4OSwxODM1MTQ0OTUwXX0=
 -->
