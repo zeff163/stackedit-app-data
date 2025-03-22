@@ -4,7 +4,8 @@
 包含以下几个部分：
  -  <mark>专业知识</mark>专业知识：数学、计算机、英语、文学等学科知识
  -   <mark>生活常识</mark>：健康与锻炼、穿搭与外貌、其他
- - <mark>求职</mark>：岗位消息及应聘技巧
+ - <mark>求职</mark>：岗位消息及应聘技巧 </br>
+ 
  - [ ] **心得**
 主要是个人的总结归纳，包括：
 - <mark>学习心得</mark>：对某个知识点的个人理解或者发现的问题
@@ -60,8 +61,8 @@
 ### <font color = red> 网站的记录要素
 关键词 + 主要内容 + 新知识 + 文献作者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU2MjAxMTYsMTU3OTU1MjMyLDU4Nj
-k3NDUyMCwxMjE5NTQ2ODk2LDExNzkxOTQyMjIsLTE4MDMwNzI4
-NjgsMTQwMDEwODgwLDg2MTEzMjY0NSwtNTQ4OTY5NzE4LC0xNz
-k2ODE5NzEyXX0=
+eyJoaXN0b3J5IjpbLTUzMDQ4Njg5NSwtMTQyNTYyMDExNiwxNT
+c5NTUyMzIsNTg2OTc0NTIwLDEyMTk1NDY4OTYsMTE3OTE5NDIy
+MiwtMTgwMzA3Mjg2OCwxNDAwMTA4ODAsODYxMTMyNjQ1LC01ND
+g5Njk3MTgsLTE3OTY4MTk3MTJdfQ==
 -->
