@@ -10,7 +10,7 @@
 
 
 
-## <font color = green>理发店理发 </font>
+## <font color = green>理发 </font>
 ### <font color = purple>头发适合长度及发质 </font>
 + 
 ### <font color = purple>理发细节 </font>
@@ -19,9 +19,9 @@
 
 
 
-## <font color = green>新名词 </font>
-### <font color = purple>英文单词 </font>
-### <font color = purple>新词 </font>
+## <font color = green>日常打理 </font>
+### <font color = purple>吹头发 </font>
+### <font color = purple> </font>
 
 
 
@@ -54,5 +54,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjQzNTQ4NF19
+eyJoaXN0b3J5IjpbMTQ0MTc4NTUxM119
 -->
