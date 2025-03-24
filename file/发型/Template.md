@@ -10,10 +10,10 @@
 
 
 
-## <font color = green>造型技巧 </font>
-### <font color = purple>学习心得 </font>
+## <font color = green>理发店理发 </font>
+### <font color = purple>头发适合长度及发质 </font>
 + 
-### <font color = purple>生活技巧 </font>
+### <font color = purple>理发细节 </font>
 
 ### <font color = purple>Good Idea </font>
 
@@ -54,5 +54,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjU5NTU2Nl19
+eyJoaXN0b3J5IjpbLTY3MjQzNTQ4NF19
 -->
