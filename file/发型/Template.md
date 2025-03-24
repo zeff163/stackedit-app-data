@@ -1,4 +1,4 @@
-## <font color = blue face=楷体 size=6>发型种类——偏分 </font>
+## <font color = blue face=楷体 size=6>发型种类—— </font>
 
 ## <font color = green>真人图片</font>
 + <a id = "01-1">  [<font color = red>跳转</font>](#01-2)
@@ -39,5 +39,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg1NjQyNzBdfQ==
+eyJoaXN0b3J5IjpbODMzOTMwNDI3XX0=
 -->
