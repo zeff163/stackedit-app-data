@@ -49,7 +49,7 @@
 * **线上与本地可以相互传输数据**
 可以实时将本地段的文件或文本传到网上，实现不同平台的数据接收。
 * **可以外网和内网同时打开**
-使用VPN或不开启均可以浏览该网站。n**
+使用VPN或不开启均可以浏览该网站。
 * **可以用来当资源库**
 有比较大的容量，空间比较安全、稳定。
 * **易于备份**
@@ -60,8 +60,8 @@
 ### <font color = red> 网站的记录要素
 关键词 + 主要内容 + 新知识 + 文献作者
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDg0NzU1MCwtMTQyNTYyMDExNiwxNT
-c5NTUyMzIsNTg2OTc0NTIwLDEyMTk1NDY4OTYsMTE3OTE5NDIy
-MiwtMTgwMzA3Mjg2OCwxNDAwMTA4ODAsODYxMTMyNjQ1LC01ND
-g5Njk3MTgsLTE3OTY4MTk3MTJdfQ==
+eyJoaXN0b3J5IjpbMTU5NTg2NDg0NiwxNjMwODQ3NTUwLC0xND
+I1NjIwMTE2LDE1Nzk1NTIzMiw1ODY5NzQ1MjAsMTIxOTU0Njg5
+NiwxMTc5MTk0MjIyLC0xODAzMDcyODY4LDE0MDAxMDg4MCw4Nj
+ExMzI2NDUsLTU0ODk2OTcxOCwtMTc5NjgxOTcxMl19
 -->
