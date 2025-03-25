@@ -17,6 +17,15 @@
 
 
 ## <font color = green>日常打理 </font>
++ **正面**  
+### <font color = purple>吹头发技巧 </font>
+### <font color = purple>直板夹使用 </font>
+### <font color = purple>造型产品使用 </font>  
++ **侧面**  
+### <font color = purple>吹头发技巧 </font>
+### <font color = purple>直板夹使用 </font>
+### <font color = purple>造型产品使用 </font>
++ **背面**  
 ### <font color = purple>吹头发技巧 </font>
 ### <font color = purple>直板夹使用 </font>
 ### <font color = purple>造型产品使用 </font>
@@ -39,5 +48,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzOTMwNDI3XX0=
+eyJoaXN0b3J5IjpbOTA5ODg2MDEyXX0=
 -->
