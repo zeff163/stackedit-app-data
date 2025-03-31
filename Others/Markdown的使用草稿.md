@@ -10,10 +10,8 @@
 <tr align=center> 
 <td align =left> 1 </td>
 <td> <p>  1</p> <p><font color = o > <b>2</b> </p> </td>
-<td> <table> <td width="30%">1</td> <tr><td>2</td></tr></table></td>
-</tr>
-</table>
-</div>
+<td> <table> <td width="30%">1</td> <tdtd></tr></d>
+</tabdiv>
 
 |d|  |
 |--|--|
@@ -29,7 +27,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2Nzc4NzI2LDE4NjEzMzk1OTYsMTYxNj
-E5OTczNCwxODYxMzM5NTk2LC0xOTUxNjA1Njc1LDMwMjQ1NzY1
-LDExMTg2ODEwNTQsMTIyOTA2OTE2MiwxMDA3NjY4MjgxXX0=
+eyJoaXN0b3J5IjpbNDQ2MjE3NTEzLDU2Njc3ODcyNiwxODYxMz
+M5NTk2LDE2MTYxOTk3MzQsMTg2MTMzOTU5NiwtMTk1MTYwNTY3
+NSwzMDI0NTc2NSwxMTE4NjgxMDU0LDEyMjkwNjkxNjIsMTAwNz
+Y2ODI4MV19
 -->
