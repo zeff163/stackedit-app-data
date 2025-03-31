@@ -5,13 +5,13 @@
 <thead>
 <th> 第一列 </th>
 <th> 第二列 </th>
-<th width="30%"> 第三列 </th>
+<th width="0%"> 第三列 </th>
 </thead>
 <tr align=center> 
 <td align =left> 1 </td>
 <td> <p>  1</p> <p><font color = o > <b>2</b> </p> </td>
-<td> <table> <td width="30%">1</td> <tdtd></tr></d>
-</tabdiv>
+<td> <table> <td width=10000>1</td> <tdtd></tr></d>
+</tabr><td widtdiv>
 
 |d|  |
 |--|--|
@@ -27,8 +27,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2MjE3NTEzLDU2Njc3ODcyNiwxODYxMz
-M5NTk2LDE2MTYxOTk3MzQsMTg2MTMzOTU5NiwtMTk1MTYwNTY3
-NSwzMDI0NTc2NSwxMTE4NjgxMDU0LDEyMjkwNjkxNjIsMTAwNz
-Y2ODI4MV19
+eyJoaXN0b3J5IjpbMjE0MDY0MTQwMyw0NDYyMTc1MTMsMTg2MT
+MzOTU5NiwxNjE2MTk5NzM0LDE4NjEzMzk1OTYsLTE5NTE2MDU2
+NzUsMzAyNDU3NjUsMTExODY4MTA1NCwxMjI5MDY5MTYyLDEwMD
+c2NjgyODFdfQ==
 -->
