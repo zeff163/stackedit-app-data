@@ -1,17 +1,6 @@
 1. <a id ="01-1"> [点击](#01-2)
 
-使用 Github 同步时，首先登录 Github 账户，然后会在 Github 上自动创建一个 repository
-（注意授权 StackEdit 时，不要勾选 private 仓库选项），这个仓库一般为默认的主文档空间。
-可以在该文档空间中修改是否【自动同步】。
-之后点开任意文档空间的文件，可以在【同步】栏设定该文件同步的仓库和路径（路径
-格式一般是：文件夹 1/文件夹 2/.../文件名.md）。然后点击同步后会在 Github 的对应仓库生
-成文件夹和文件（有可能会多生成一些文件注意删除）。【Github 上保存】是上传到 Github
-上，【从 Github 打开】是传到 StackEdit 上，如果重复上传没有经过修改的文件，会额外生
-成该文件的重命名文件。Markdown 语法大全一般来说，如果同时在 Github 或 Stackedit 上
-修改多个文件，只需要在某一个文件中进行同步，其他文件都会自动同步（也许关闭了自动
-同步功能就不会）。Stackedit 上只显示.md 文件，其他类型例如.txt 不会显示。
-如果出现同步很慢，或者无法同步的情况，在 stackEdit 中选择【重置应用程序】重新登
-录尝试
+
 
 | 123<a id ="01-2"> |  |
 |--|--|
@@ -19,5 +8,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc0ODMyMzhdfQ==
+eyJoaXN0b3J5IjpbLTgzNzc4Mjc1NF19
 -->
