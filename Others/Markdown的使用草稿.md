@@ -26,11 +26,52 @@
 |--|--|
 |  |  |
 
+<html>
+<head>
+  <style>
+    /* 所有表格共用样式 */
+    table {
+      border-collapse: collapse; /* 合并边框 */
+      margin: 0;
+      padding: 0;
+    }
+    
+    td, th {
+      border: 1px solid black;  /* 单元格边框 */
+      padding: 0;               /* 清除默认内边距 */
+      margin: 0;
+    }
+
+    /* 子表格的容器单元格 */
+    .nested-table-cell {
+      border: none; /* 可选：隐藏父单元格边框 */
+    }
+  </style>
+</head>
+<body>
+  <!-- 父表格 -->
+  <table>
+    <tr>
+      <td>普通单元格</td>
+      <td class="nested-table-cell">
+        <!-- 嵌套子表格 -->
+        <table>
+          <tr>
+            <td>嵌套表格单元格1</td>
+            <td>嵌套表格单元格2</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI3MDgwMDcsLTExODAwNzc1MjUsMj
-g3MTMzMjc5LDY0MDQwNzE1Myw5MjgxNjgxODUsLTE1MTg4Njc0
-ODQsNDQ2MjE3NTEzLDE4NjEzMzk1OTYsMTYxNjE5OTczNCwxOD
-YxMzM5NTk2LC0xOTUxNjA1Njc1LDMwMjQ1NzY1LDExMTg2ODEw
-NTQsMTIyOTA2OTE2MiwxMDA3NjY4MjgxXX0=
+eyJoaXN0b3J5IjpbMTg5NjUyMDE0MCwtMTkyMjcwODAwNywtMT
+E4MDA3NzUyNSwyODcxMzMyNzksNjQwNDA3MTUzLDkyODE2ODE4
+NSwtMTUxODg2NzQ4NCw0NDYyMTc1MTMsMTg2MTMzOTU5NiwxNj
+E2MTk5NzM0LDE4NjEzMzk1OTYsLTE5NTE2MDU2NzUsMzAyNDU3
+NjUsMTExODY4MTA1NCwxMjI5MDY5MTYyLDEwMDc2NjgyODFdfQ
+==
 -->
