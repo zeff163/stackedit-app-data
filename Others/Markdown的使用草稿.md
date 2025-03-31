@@ -10,7 +10,7 @@
 <tr align=center> 
 <td align =left> 1 </td>
 <td> <p>  1</p> <p><font color = o > <b>2</b> </p> </td>
-<td> <table width =100% margin =0> <tr><td width=100%>1</td></tr><td>2</td></tr>
+<td> <table width =100% margin =0> <tr><td>1</td></tr><td>2</td></tr>
 </table>
 </div>
 
@@ -28,9 +28,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODczMTc5MCwtMTE4MDA3NzUyNSwyOD
-cxMzMyNzksNjQwNDA3MTUzLDkyODE2ODE4NSwtMTUxODg2NzQ4
-NCw0NDYyMTc1MTMsMTg2MTMzOTU5NiwxNjE2MTk5NzM0LDE4Nj
-EzMzk1OTYsLTE5NTE2MDU2NzUsMzAyNDU3NjUsMTExODY4MTA1
-NCwxMjI5MDY5MTYyLDEwMDc2NjgyODFdfQ==
+eyJoaXN0b3J5IjpbMjQzMjk5NDIxLC0xMTgwMDc3NTI1LDI4Nz
+EzMzI3OSw2NDA0MDcxNTMsOTI4MTY4MTg1LC0xNTE4ODY3NDg0
+LDQ0NjIxNzUxMywxODYxMzM5NTk2LDE2MTYxOTk3MzQsMTg2MT
+MzOTU5NiwtMTk1MTYwNTY3NSwzMDI0NTc2NSwxMTE4NjgxMDU0
+LDEyMjkwNjkxNjIsMTAwNzY2ODI4MV19
 -->
