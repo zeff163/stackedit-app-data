@@ -10,7 +10,7 @@
 <tr align=center> 
 <td align =left> 1 </td>
 <td> <p>  1</p> <p><font color = o > <b>2</b> </p> </td>
-<td> <table width =100% margin = 0 padding = 0> <tr><td>1</td></tr><td>2</td></tr>
+<td> <table width =100% margin = 0 padding  0> <tr><td>1</td></tr><td>2</td></tr>
 </table>
 </div>
 
@@ -82,10 +82,10 @@
   </tr>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzM5OTUzOCwxODk2NTIwMTQwLC0xOT
-IyNzA4MDA3LC0xMTgwMDc3NTI1LDI4NzEzMzI3OSw2NDA0MDcx
-NTMsOTI4MTY4MTg1LC0xNTE4ODY3NDg0LDQ0NjIxNzUxMywxOD
-YxMzM5NTk2LDE2MTYxOTk3MzQsMTg2MTMzOTU5NiwtMTk1MTYw
-NTY3NSwzMDI0NTc2NSwxMTE4NjgxMDU0LDEyMjkwNjkxNjIsMT
-AwNzY2ODI4MV19
+eyJoaXN0b3J5IjpbLTc1ODk1NDI2OSwxMDAzMzk5NTM4LDE4OT
+Y1MjAxNDAsLTE5MjI3MDgwMDcsLTExODAwNzc1MjUsMjg3MTMz
+Mjc5LDY0MDQwNzE1Myw5MjgxNjgxODUsLTE1MTg4Njc0ODQsND
+Q2MjE3NTEzLDE4NjEzMzk1OTYsMTYxNjE5OTczNCwxODYxMzM5
+NTk2LC0xOTUxNjA1Njc1LDMwMjQ1NzY1LDExMTg2ODEwNTQsMT
+IyOTA2OTE2MiwxMDA3NjY4MjgxXX0=
 -->
