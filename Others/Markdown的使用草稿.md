@@ -1,15 +1,17 @@
 1. <a id ="01-1"> [点击](#01-2)
 
 <div>
-<table>
+<table align  =center>
 <thead>
 <th> 第一列 </th>
 <th> 第二列 </th>
 <th> 第三列 </th>
 </thead>
 <tbody>
-<tr>
-<>
+<tr align=center> 
+<td align =left> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
 </tr>
 </tbody>
 </table>
@@ -29,6 +31,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM1ODIyMzcsMTIyOTA2OTE2MiwxMD
-A3NjY4MjgxXX0=
+eyJoaXN0b3J5IjpbMTExODY4MTA1NCwxMjI5MDY5MTYyLDEwMD
+c2NjgyODFdfQ==
 -->
