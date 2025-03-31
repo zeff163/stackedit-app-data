@@ -10,7 +10,7 @@
 <tr align=center> 
 <td align =left> 1 </td>
 <td> <p>  1</p> <p><font color = o > <b>2</b> </p> </td>
-<td> <table> <tr><td width=10>1</td></tr><td>2</td></tr>
+<td> <table width =100%> <tr><td width=100%>1</td></tr><td>2</td></tr>
 </table>
 </div>
 
@@ -28,9 +28,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3MTMzMjc5LDY0MDQwNzE1Myw5MjgxNj
-gxODUsLTE1MTg4Njc0ODQsNDQ2MjE3NTEzLDE4NjEzMzk1OTYs
-MTYxNjE5OTczNCwxODYxMzM5NTk2LC0xOTUxNjA1Njc1LDMwMj
-Q1NzY1LDExMTg2ODEwNTQsMTIyOTA2OTE2MiwxMDA3NjY4Mjgx
-XX0=
+eyJoaXN0b3J5IjpbLTExODAwNzc1MjUsMjg3MTMzMjc5LDY0MD
+QwNzE1Myw5MjgxNjgxODUsLTE1MTg4Njc0ODQsNDQ2MjE3NTEz
+LDE4NjEzMzk1OTYsMTYxNjE5OTczNCwxODYxMzM5NTk2LC0xOT
+UxNjA1Njc1LDMwMjQ1NzY1LDExMTg2ODEwNTQsMTIyOTA2OTE2
+MiwxMDA3NjY4MjgxXX0=
 -->
