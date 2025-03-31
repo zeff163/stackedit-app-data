@@ -11,7 +11,7 @@
 <tr align=center> 
 <td align =left> 1 </td>
 <td> <p>  1</p> <p><font color = o > <b>2</b> </p> </td>
-<td> <table width="30%"> <thead><th>1</th></thead><tbody><tr><td>2</td></tr></tbody></table></><> </td>
+<td> <table> <td width="30%">1</td> <tr><td>2</td></tr></table></td>
 </tr>
 </tbody>
 </table>
@@ -31,7 +31,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTI5NzQ4LDE4NjEzMzk1OTYsMTYxNj
-E5OTczNCwxODYxMzM5NTk2LC0xOTUxNjA1Njc1LDMwMjQ1NzY1
-LDExMTg2ODEwNTQsMTIyOTA2OTE2MiwxMDA3NjY4MjgxXX0=
+eyJoaXN0b3J5IjpbMTg4NTg4MDA1OSwxODYxMzM5NTk2LDE2MT
+YxOTk3MzQsMTg2MTMzOTU5NiwtMTk1MTYwNTY3NSwzMDI0NTc2
+NSwxMTE4NjgxMDU0LDEyMjkwNjkxNjIsMTAwNzY2ODI4MV19
 -->
