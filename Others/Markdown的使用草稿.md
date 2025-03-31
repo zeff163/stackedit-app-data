@@ -67,8 +67,22 @@
 </body>
 </html>
 
+<table style="border-collapse: collapse; margin: 0; padding: 0; border: 1px solid black;">
+  <tr>
+    <td style="border: 1px solid black; padding: 0;">普通单元格</td>
+    <td style="border: 1px solid black; padding: 0; margin: 0;">
+      <!-- 嵌套子表格 -->
+      <table style="border-collapse: collapse; margin: 0; padding: 0; width: 100%;">
+        <tr>
+          <td style="border: 1px solid black; padding: 4px;">嵌套表格1</td>
+          <td style="border: 1px solid black; padding: 4px;">嵌套表格2</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDEwMDcwNywxODk2NTIwMTQwLC0xOT
+eyJoaXN0b3J5IjpbMTAwMzM5OTUzOCwxODk2NTIwMTQwLC0xOT
 IyNzA4MDA3LC0xMTgwMDc3NTI1LDI4NzEzMzI3OSw2NDA0MDcx
 NTMsOTI4MTY4MTg1LC0xNTE4ODY3NDg0LDQ0NjIxNzUxMywxOD
 YxMzM5NTk2LDE2MTYxOTk3MzQsMTg2MTMzOTU5NiwtMTk1MTYw
