@@ -1,7 +1,7 @@
 1. <a id ="01-1"> [点击](#01-2)
 
 <div>
-<table align  =center padding : 0>
+<table align  =center padding =0 margin =0>
 <thead>
 <th> 第一列 </th>
 <th> 第二列 </th>
@@ -10,7 +10,7 @@
 <tr align=center> 
 <td align =left> 1 </td>
 <td> <p>  1</p> <p><font color = o > <b>2</b> </p> </td>
-<td> <table width =100% margin : 0> <tr><td>1</td></tr><td>2</td></tr>
+<td> <table width =100% margin :=0> <tr><td>1</td></tr><td>2</td></tr>
 </table>
 </div>
 
@@ -68,10 +68,10 @@
 </html>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjUyMDE0MCwtMTkyMjcwODAwNywtMT
-E4MDA3NzUyNSwyODcxMzMyNzksNjQwNDA3MTUzLDkyODE2ODE4
-NSwtMTUxODg2NzQ4NCw0NDYyMTc1MTMsMTg2MTMzOTU5NiwxNj
-E2MTk5NzM0LDE4NjEzMzk1OTYsLTE5NTE2MDU2NzUsMzAyNDU3
-NjUsMTExODY4MTA1NCwxMjI5MDY5MTYyLDEwMDc2NjgyODFdfQ
-==
+eyJoaXN0b3J5IjpbLTEyOTMwOTc5MTUsMTg5NjUyMDE0MCwtMT
+kyMjcwODAwNywtMTE4MDA3NzUyNSwyODcxMzMyNzksNjQwNDA3
+MTUzLDkyODE2ODE4NSwtMTUxODg2NzQ4NCw0NDYyMTc1MTMsMT
+g2MTMzOTU5NiwxNjE2MTk5NzM0LDE4NjEzMzk1OTYsLTE5NTE2
+MDU2NzUsMzAyNDU3NjUsMTExODY4MTA1NCwxMjI5MDY5MTYyLD
+EwMDc2NjgyODFdfQ==
 -->
