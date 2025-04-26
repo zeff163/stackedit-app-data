@@ -4,14 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GitHub 视频播放器</title>
-    
-    <!-- 播放器核心样式 -->
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { background: #000; }
-        .player-container {
+        :root {
+            --primary-color: #00a1d6; /* B 站主题色 */
+            --control-bg: rgba(0, 0, 0, 0.7);
+        }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background: #000;
+            font-family: -apple-system, sans-serif;
+        }
+        #player-container {
             position: relative;
-            width: 100vw;
+            width: 100%;
             height: 100vh;
             max-width: 1280px;
             margin: 0 auto;
@@ -21,70 +30,226 @@
             height: 100%;
             object-fit: contain;
         }
-        .controls {
+        .controls-wrapper {
             position: absolute;
-            bottom: 10px;
-            left: 10px;
-            right: 10px;
-            display: flex;
-            gap: 15px;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 10px;
+            background: linear-gradient(transparent, var(--control-bg));
             opacity: 0;
             transition: opacity 0.3s;
         }
-        .controls:hover { opacity: 1; }
+        .controls-wrapper:hover {
+            opacity: 1;
+        }
+        .progress-bar {
+            width: 100%;
+            height: 3px;
+            background: rgba(255, 255, 255, 0.2);
+            margin-bottom: 10px;
+            cursor: pointer;
+        }
+        .progress-filled {
+            height: 100%;
+            background: var(--primary-color);
+            width: 0;
+            transition: width 0.1s;
+        }
+        .control-buttons {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            color: white;
+        }
         button {
-            padding: 8px 15px;
-            background: rgba(255,255,255,0.2);
+            background: none;
             border: none;
             color: white;
             cursor: pointer;
+            padding: 5px;
+        }
+        button:hover {
+            color: var(--primary-color);
+        }
+        .volume-container {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .volume-slider {
+            width: 80px;
+            height: 4px;
+            -webkit-appearance: none;
+            background: rgba(255, 255, 255, 0.2);
+        }
+        .volume-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 12px;
+            height: 12px;
+            background: var(--primary-color);
+            border-radius: 50%;
+        }
+        .error-message {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            text-align: center;
         }
     </style>
 </head>
 <body>
-    <div class="player-container">
-        <video id="main-video" controls>
-            <source src="./assets/demo.mp4" type="video/mp4">
-            您的浏览器不支持视频播放
+    <div id="player-container">
+        <video id="main-video" playsinline>
+            <!-- 视频源由 JavaScript 动态注入 -->
         </video>
-        <div class="controls">
-            <button onclick="togglePlay()">播放/暂停</button>
-            <input type="range" id="volume" min="0" max="1" step="0.1" value="1" 
-                   onchange="setVolume(this.value)">
+        
+        <div class="controls-wrapper">
+            <div class="progress-bar" id="progress-bar">
+                <div class="progress-filled" id="progress-filled"></div>
+            </div>
+            <div class="control-buttons">
+                <button id="play-pause-btn">▶️</button>
+                <span id="time-display">00:00 / 00:00</span>
+                <div class="volume-container">
+                    <button id="mute-btn">🔊</button>
+                    <input type="range" 
+                           class="volume-slider" 
+                           id="volume" 
+                           min="0" 
+                           max="1" 
+                           step="0.1" 
+                           value="1">
+                </div>
+                <button id="fullscreen-btn">⛶</button>
+            </div>
         </div>
+        
+        <div id="error-message" class="error-message" style="display: none;"></div>
     </div>
 
     <script>
-        const video = document.getElementById('main-video');
+        // 配置参数
+        const ALLOWED_PATHS = ['assets/videos/', 'docs/media/']; // 允许访问的路径前缀
         
-        // 基础控制函数
-        function togglePlay() {
-            video.paused ? video.play() : video.pause();
-        }
-        function setVolume(val) {
-            video.volume = val;
+        // 初始化播放器
+        const video = document.getElementById('main-video');
+        const urlParams = new URLSearchParams(window.location.search);
+        
+        // 安全获取视频路径
+        function getSafePath(param) {
+            let path = decodeURIComponent(param || '');
+            // 移除非法字符
+            path = path.replace(/(\.\.\/)/g, '').replace(/^\//, '');
+            // 验证路径合法性
+            if (!ALLOWED_PATHS.some(prefix => path.startsWith(prefix))) {
+                showError('视频路径不在允许访问的目录中');
+                return null;
+            }
+            return path;
         }
 
-        // 自动播放检测（需用户交互）
-        document.addEventListener('click', () => {
-            if (video.paused) video.play().catch(() => {});
+        // 显示错误信息
+        function showError(msg) {
+            const errorDiv = document.getElementById('error-message');
+            errorDiv.style.display = 'block';
+            errorDiv.textContent = msg;
+        }
+
+        // 初始化视频源
+        function initVideo() {
+            const videoPath = getSafePath(urlParams.get('v'));
+            if (!videoPath) return;
+
+            const source = document.createElement('source');
+            source.src = `./${videoPath}`;
+            source.type = 'video/mp4';
+            
+            video.innerHTML = '';
+            video.appendChild(source);
+            video.load();
+
+            // 设置封面（可选参数）
+            const coverPath = getSafePath(urlParams.get('cover'));
+            if (coverPath) {
+                video.poster = `./${coverPath}`;
+            }
+        }
+
+        // 播放器控制逻辑
+        let isDraggingProgress = false;
+
+        // 时间格式化
+        function formatTime(seconds) {
+            const minutes = Math.floor(seconds / 60);
+            seconds = Math.floor(seconds % 60);
+            return `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+        }
+
+        // 事件监听
+        document.addEventListener('DOMContentLoaded', initVideo);
+
+        video.addEventListener('timeupdate', () => {
+            if (isDraggingProgress) return;
+            const progress = (video.currentTime / video.duration) * 100;
+            document.getElementById('progress-filled').style.width = `${progress}%`;
+            document.getElementById('time-display').textContent = 
+                `${formatTime(video.currentTime)} / ${formatTime(video.duration)}`;
+        });
+
+        document.getElementById('progress-bar').addEventListener('click', (e) => {
+            const rect = e.target.getBoundingClientRect();
+            const percent = (e.clientX - rect.left) / rect.width;
+            video.currentTime = percent * video.duration;
+        });
+
+        document.getElementById('play-pause-btn').addEventListener('click', () => {
+            video.paused ? video.play() : video.pause();
+        });
+
+        document.getElementById('mute-btn').addEventListener('click', () => {
+            video.muted = !video.muted;
+            document.getElementById('mute-btn').textContent = video.muted ? '🔇' : '🔊';
+        });
+
+        document.getElementById('volume').addEventListener('input', (e) => {
+            video.volume = e.target.value;
+            video.muted = e.target.value === '0';
+        });
+
+        document.getElementById('fullscreen-btn').addEventListener('click', () => {
+            if (!document.fullscreenElement) {
+                document.documentElement.requestFullscreen();
+            } else {
+                document.exitFullscreen();
+            }
+        });
+
+        video.addEventListener('play', () => {
+            document.getElementById('play-pause-btn').textContent = '⏸️';
+        });
+
+        video.addEventListener('pause', () => {
+            document.getElementById('play-pause-btn').textContent = '▶️';
+        });
+
+        // 键盘控制
+        document.addEventListener('keydown', (e) => {
+            switch(e.code) {
+                case 'Space':
+                    e.preventDefault();
+                    video.paused ? video.play() : video.pause();
+                    break;
+                case 'ArrowLeft':
+                    video.currentTime = Math.max(0, video.currentTime - 5);
+                    break;
+                case 'ArrowRight':
+                    video.currentTime = Math.min(video.duration, video.currentTime + 5);
+                    break;
+            }
         });
     </script>
 </body>
-
-<body>    
-  <!-- video-player.html -->
-<video id="main-video" controls width="100%"></video>
-
-<script>
-  // 从 URL 参数中获取视频文件名
-  const urlParams = new URLSearchParams(window.location.search);
-  const videoFile = urlParams.get('v') || 'default.mp4'; // 默认视频
-
-  // 动态设置视频源
-  const video = document.getElementById('main-video');
-  video.innerHTML = `<source src="./${videoFile}" type="video/mp4">`;
-  video.load();
-</script>  
-</body>   
 </html>
