@@ -71,4 +71,20 @@
         });
     </script>
 </body>
+
+<body>    
+  <!-- video-player.html -->
+<video id="main-video" controls width="100%"></video>
+
+<script>
+  // 从 URL 参数中获取视频文件名
+  const urlParams = new URLSearchParams(window.location.search);
+  const videoFile = urlParams.get('v') || 'default.mp4'; // 默认视频
+
+  // 动态设置视频源
+  const video = document.getElementById('main-video');
+  video.innerHTML = `<source src="./${videoFile}" type="video/mp4">`;
+  video.load();
+</script>  
+</body>   
 </html>
