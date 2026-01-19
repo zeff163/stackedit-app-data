@@ -1,7 +1,9 @@
-
-
-
-> Written with [StackEdit中文版](https://stackedit.cn/).
+## 安全与隐私
+**推特某些敏感视频无法在手机app上打开的解决方式**
+在推特网页版里进入`设置 >> 隐私和安全 >>勾选【显示可能含有敏感内容的媒体内容】`。
+当然这样会导致所有的敏感内容都需要自己一个个的手动点进去，而不会直接播放。
+[网页回答1](https://x.com/CoreGee_/status/1959951375401697660)  [网页回答2](https://x.com/CoreGee_/status/1961500070958055841)
+[网页保存1]() 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwOTA1NjE5XX0=
+eyJoaXN0b3J5IjpbLTIwNDA2NjE4MjBdfQ==
 -->
