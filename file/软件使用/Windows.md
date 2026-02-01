@@ -6,6 +6,10 @@ https://blog.csdn.net/a990914093/article/details/107107481
 > 在浏览器中的搜索框需要用 shift+ delete
 
 
+**怎么复制文件的地址**
+一般来说可以在文件夹的顶部获取文件夹的路径，但对于文件名则需要手动输入，当文件名很长时则比较麻烦。
+方法：按住shift键，然后右键文件会出现一个【复制文件地址】选项，点击即可复制到剪切板。
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODk0NTA0Nl19
+eyJoaXN0b3J5IjpbLTE5ODMxODc3MDRdfQ==
 -->
