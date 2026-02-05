@@ -11,7 +11,7 @@
 
 注4：排序前请**取消合并单元格**，否则可能导致排序失败或数据错乱。
 
-<font color =red>注5：如果想指定某排之后的内容进行排序，该排前的内容不变，可以把光标移动到该排任意一个单元格，之后排序即可。
+<font color =red>注5：如果想指定某排之后的内容进行排序，该排前的内容不变，可以把光标移动到该排任意一个单元格，之后排序即可。（个人经验，未验证）
 
 <font color =red>注6：排序后如何恢复原始顺序‌？
 在原表格增加一个【序号】列，用于记录初始的行顺序。排序后若需要还原，按此【序号】列升序即。</font>
@@ -104,6 +104,6 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyODExMDU2LC0zNTAxMTY3NiwtMTkwNz
-gxNjQyMV19
+eyJoaXN0b3J5IjpbLTUyMDA3MTMxMSwtMzUwMTE2NzYsLTE5MD
+c4MTY0MjFdfQ==
 -->
