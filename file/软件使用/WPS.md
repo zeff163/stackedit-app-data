@@ -39,7 +39,7 @@
 > 但如果采用复制单元格的方式，比如C3处原公式为 `=IF(COUNTIF(B3, A3)>0, "1", "0")`，如果复制单元格到C5处，则会自动改成`=IF(COUNTIF(B5, A5)>0, "1", "0")`，无需再修改公式中的数字来匹配行号。
 
 注3：WPS数字精度最大为15位，超过15位数字的数据（例如身份证号）会当作字符串来保存，此时如果再采用这种数值匹配的方式会出现问题。
-解决方式：**删掉多余的位数**，例如同省的身份证号头是一样的，可以通过【开始】>>【查找】>>【替换】，将需要删除的内容全部替换为空，之后再对短数据进行数值匹配。
+解决方式1：**删掉多余的位数**，例如同省的身份证号头是一样的，可以通过【开始】>>【查找】>>【替换】，将需要删除的内容全部替换为空，之后再对短数据进行数值匹配。
 解决方式2：**强制转换为字符串**，在后面添加`&"*"`。将`=IF(COUNTIF($F$1:$F$6, A2)>0, "1", "0")`改为`=IF(COUNTIF($F$1:$F$6, A2&"*")>0, "1", "0")`
 
 > 如果采用加减某个数的方式来删除多余的位数，经检测无法得到正确的计算结果，因为数据本身处于溢出状态，再进行运算会导致异常。
@@ -102,8 +102,7 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
 	
 [AI回答](https://chat.baidu.com/search?isShowHello=1&extParams=%7B%22ori_lid%22%3A%2211443616048331588270%22%2C%22subEnterType%22%3A%22his_middle%22%2C%22enter_type%22%3A%22ai_tab_url%22%7D)
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3NDIwNjIsLTUyMDA3MTMxMSwtMzUwMT
-E2NzYsLTE5MDc4MTY0MjFdfQ==
+eyJoaXN0b3J5IjpbLTEzMjEwOTE1ODEsNjg3NDIwNjIsLTUyMD
+A3MTMxMSwtMzUwMTE2NzYsLTE5MDc4MTY0MjFdfQ==
 -->
