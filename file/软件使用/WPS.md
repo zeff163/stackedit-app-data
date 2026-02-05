@@ -30,6 +30,8 @@
 
 注2：如何自动填充？
 最好在需要检测的列旁新开一列，在新列的某个单元格输入公式。之后将鼠标移动到该单元格的右下角，会出现一个黑色的加粗十字符号，双击即可实现自动填充。
+> 自动填充时遇到空格会中断，需要在新的部分复制公式并输入，这时需要按需修改行号。
+> 但如果采用复制单元格的方式，比如C3处原公式为 `=IF(COUNTIF(B3, A3)>0, "1", "0")`，如果复制单元格到C5处，则会自动改成`=IF(COUNTIF(B5, A5)>0, "1", "0")`，无需再修改公式中的数字来匹配行号。
 
 注3：WPS数字精度最大为15位，超过15位数字的数据（例如身份证号）会当作字符串来保存，此时如果再采用这种数值匹配的方式会出现问题。
 解决方式是：**删掉多余的位数**，例如同省的身份证号头是一样的，可以通过【开始】>>【查找】>>【替换】，将需要删除的内容全部替换为空，之后再对短数据进行数值匹配。
@@ -95,6 +97,6 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0MzYzODk1LC0zNTAxMTY3NiwtMTkwNz
-gxNjQyMV19
+eyJoaXN0b3J5IjpbMjEyMTE1MTE5OCwtMzUwMTE2NzYsLTE5MD
+c4MTY0MjFdfQ==
 -->
